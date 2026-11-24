@@ -1,3 +1,6 @@
+=== KIND: 1 | DATE: 2026-05-25 17:14:36 UTC | ID: 94fcb6e3e6150d8ae096fb0ff8706b1af33eb8b238d35ee14d639ac8de27c10a ===
+Merkeziyetsiz ve sansürsüz internette yerimi aldım. Gölge yazarlık, felsefe ve mantık üzerine yazılarım yakında burada olacak.
+
 === KIND: 1 | DATE: 2026-05-25 19:55:14 UTC | ID: 16db1e73a31a810a73c9b2e373776d21f93b8cf1749fc6d0733e2ca695348c47 ===
  Mantık tahsil etmekten daha önemli çok az şey biliyorum.
 
@@ -1090,6 +1093,11 @@ Sıkılmanın faydalı bir tarafı var. Derinleşmeyi önemsizleştirmemek şart
 
 === KIND: 1 | DATE: 2026-10-01 10:42:30 UTC | ID: cecebe37d2906b696d1edf723a8402d29543347ede4161a37e3ecd3fb4efc1bd ===
 Kategorik önermeler hiçbir seçeneğe bağlı olmadığı için kategoriktirler. "Kategoriler arasında ilişki var." anlamında kullanıyoruz. Bir şeyi (bütün insanlar) bir şeye (ölümlüdür) yüklemliyoruz. O şeyi bir sınıfa dahil ediyoruz. Mesela bütün insanları ölümlü sınıfına dahil ediyor. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-01 17:41:16 UTC | ID: 688a84af900548e40523b5eb90f34f770bcc9d494b7864686e999fd6e8f53687 ===
+Bileşik (karmaşık) önermeler, kategorik olmayan (bir bütün olarak, klasik mantıkta) önermelerdir. Birden fazla önerme bağlaçlarla birbirine bağlanır ve bileşik önerme oluşturulur: "Bütün kediler ölümlü ve Benekli bir kedi ise Benekli ölümlüdür." 
 
 
 

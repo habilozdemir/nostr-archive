@@ -3,7 +3,7 @@
 Complete, SHA-256 verified public archive of Nostr events and attached media files retrieved across active and historical relays.
 
 ## Archive Contents
-- `nostr-public-events.json`: All 516 public signed Nostr events (notes, replies, reactions, bookmarks, relay lists, metadata) in chronological order.
+- `nostr-public-events.json`: All 518 public signed Nostr events (notes, replies, reactions, bookmarks, relay lists, metadata) in chronological order.
 - `nostr-posts-readable.txt`: Human-readable plain text export of all notes and replies (`Kind 1`).
 - `media/`: All 11 attached documents and images (PDFs, PNGs, JPGs) preserved locally.
 - `MANIFEST.sha256`: Cryptographic SHA-256 checksums for every file in the archive.
