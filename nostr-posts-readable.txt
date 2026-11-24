@@ -1,0 +1,1844 @@
+=== KIND: 1 | DATE: 2026-05-25 19:55:14 UTC | ID: 16db1e73a31a810a73c9b2e373776d21f93b8cf1749fc6d0733e2ca695348c47 ===
+ Mantık tahsil etmekten daha önemli çok az şey biliyorum.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:55:19 UTC | ID: d2969db1742c11fd4aff4006ca34d1721df58054345bdb3cdb6e6217eeb543af ===
+ Mantık hem bir felsefe disiplinini hem de "mantıklı düşünme"yi temsil eder. Benzer şekilde "ekonomi" sözcüğü de iki anlamda kullanılır. "Üniversitede ekonomi okumak istiyorum." ya da "Türkiye ekonomisi 2023'te yüzde 4,5 büyüdü."
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:55:24 UTC | ID: 7a6d89a12dd3f27ad290f407dd69229d456f0306e004d72f312eb1316d8db680 ===
+ Mantık bize dilsel ifadelerin formel koşullarını, doğru düşünmenin yasalarını öğretir. İfadenin ne söylediğiyle ilgilenmez, nasıl söylendiğiyle ilgilenir. Yapıyı içerikten bağımsız olarak inceleriz. İfadenin anlamıyla ilgilenmeyiz. İfadenin yapısıyla ilgileniriz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:55:47 UTC | ID: 478fb9979ac4b5be09eb5b22ab7bd161812e7e5fb5b6a16b1fce43384f59c1eb ===
+ Mantıksal düşünme bir düşünme türüdür. Mantık, mantıksal düşünmenin ilke ve kurallarını inceler. Mantıksal düşünmenin nasıl gerçekleştiğiyle ilgilenmez. Mantıksal düşünmenin söz konusu olduğu akıl yürütme biçimlerini inceler.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:55:51 UTC | ID: c7b45480ee81aacd8640cdc9b914d558b10bd860d103ff7cc8b755d332dabffa ===
+ Bir akıl yürütme en az iki düşünce arasında gerçekleşir. İki düşünceden biri diğerinin kanıtlayanı olmalıdır. Kanıtlayan düşünceden kanıtlanan düşünceye yani sonuca ulaşırız. Tüm bu sürece, kanıtlayan düşünceden kanıtlanan düşünceye ulaşma sürecine akıl yürütme diyoruz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:55:55 UTC | ID: 8146864e091b782c7e9bf2ee133ec5ac2431c486a71ca19c3445960b39a727ad ===
+ Mantık yalnızca yargılarla ilgilenir. Yargı bildirmeyen ifadelerle ilgilenmez. Yargı bildiren ifadeler doğru veya yanlış olabilir. Bu ifadelere mantıkta "önerme" denir. Yargı bildirmeyen ifadeler ise mantığın konusu değildir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:56:00 UTC | ID: b4553e15a296056f214a82fdc7bc0ec80b6cd93dae31d609503789740ee1a886 ===
+ Bir akıl yürütmede en az bir öncül ve sonuç bulunur. Öncül de sonuç da bir önermedir. Öncül önerme gerekçe durumunda, sonuç önermesi gerekçelendirilmiş durumundadır. Mantık bu önermeler arasında kurulan bağlantıyı inceler.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:56:06 UTC | ID: f0e67c47971421438d406bd0c14523b1dba965d1dcbbf2b15d6f6a3a0f7be8df ===
+ Kâğıtlara rastgele önermeler yazıp bir torbaya atsam ve torbadan iki adet önerme çeksem, tek başına bir önermeden söz etmediğim hâlde yani iki adet önermeye sahip olduğum hâlde akıl yürütmeden söz edemem. Birbiriyle ilişkisiz önermeler ele alındığında akıl yürütmeden söz edilmez.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:56:12 UTC | ID: 14aee20631ea15c9306f087baf917e510b4c149dbede29a50231f0fe1c2f4c72 ===
+ Doğru sıralanmamış önermelerden oluşan bir akıl yürütmeden söz edilemez. Bir akıl yürütmeden söz edilebilmesi için önermelerin mantık disiplinine uygun bir şekilde ilişkilendirilmesi gerekir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:56:18 UTC | ID: de7aa9f57b414250e5a20e42928c208636ac4e2b92fb0e907e1dac4864aa9df3 ===
+ Kanıtlayan ve kanıtlanan önermelerin olmadığı bir akıl yürütme olmaz. O şeye bir "önerme yığını" diyebiliriz ama akıl yürütme diyemeyiz. Akıl yürütme, en az iki önermeden oluşmalı ve önermeler arasında kanıtlayan-kanıtlanan ilişkisi olmalıdır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:56:24 UTC | ID: 2f9237e4f3045c2af9c6ef002eee74cb5a31cecf06c9f735771763564c2b3479 ===
+ Mantık önermelerin doğru veya yanlış olduğuyla ilgilenmez. Bütün sincaplar kuştur. Habil bir sincaptır. O hâlde Habil bir kuştur. Bütün sincapların kuş olduğunu ve benim bir sincap olduğumu kabul edersek, bu akıl yürütme mantıksal açıdan geçerli olur. Ben kuş veya sincap değilim.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:57:36 UTC | ID: 90f94b8155aeb523d8e61897011dc72bb5a808b50046285f525d54a9e912964e ===
+ Unutmayın, ürettiğiniz değerin insanlar tarafından kavranamaması doğruluğunu değiştirmez. Mantıksal açıdan, bir değerin varlığı ve başkaları tarafından onaylanması arasında zorunlu bir bağ yok. Bunu maddi ve entelektüel kazançlarımda bizzat tecrübe ettim.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:58:07 UTC | ID: a4cb2ee2f422368460c8f89bde8d45bcb3a1cacaf6e6120b7b608721607b555e ===
+ Sunduğunuz kanıtın ikna ediciliği mantığın konusu değil psikolojinin konusudur. Mantıksal geçerlilik muhatabın onayını zerre kadar umursamaz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:58:12 UTC | ID: 25300f2a70426acb269b0d0e47a8c8fbfd400a0e760622c98c588688a03a252f ===
+ Birinci öncülü yanlış, ikinci öncülü doğru ve sonuç önermesi yanlış bir akıl yürütme, mantıksal olarak geçerli olabilir. Çünkü mantık, önermelerin doğruluğuyla ilgilenmez. Mantık, akıl yürütmenin geçerliliğiyle ilgilenir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:58:16 UTC | ID: 9ac95530cdcdf250c6f2ca274980669b45cc9bb3e112b6da655d28b23d51be42 ===
+ Bir tümdengelimde öncül daima doğru kabul edilir. Bu öncül doğru kabul edildiği hâlde sonuç öncülden çıkmıyorsa o tümdengelimin hatalı olduğunu söyleriz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:58:21 UTC | ID: b491d9bb4d6285cb57e2b7db4bf2d403065851a02efac3965128fbbbadd06e5c ===
+ Bizim için bir öncülün gerçekten doğru olup olmadığı önemsizdir. Bir mantıkçı bir akıl yürütmeyi denetlerken öncüllerin gerçekten doğru olup olmadığıyla ilgilenmez. Aklın doğru adımları atarak yürüyüp yürümediğiyle ilgilenir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:58:25 UTC | ID: d668b1ac80feb1ea7e29e0ab4d91b3fdcee52d379ed8aca12a6696ab030ca301 ===
+ Mantık, akıl yürütmenin zorunlu sonuçlarıyla ilgilenir. Bütün A'ların B olduğunu, X'in bir A olduğunu söylersek o hâlde X'in bir B olduğunu da söylemeliyiz. Bu mantıksal olarak doğru bir form. X bir A olduğuna göre, X bir B olmalı.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:58:29 UTC | ID: 5b198cd2637690723658ee88a15fc65dafa3464be391237a9f2ea21e30873a7d ===
+ Matematiği doğuran şey mantıktır. Matematik mantığın rahminden çıkmıştır. Tam olarak bu yüzden -bu ilişki yüzünden- matematik mantığı hizaya sokamaz. Bir çocuk annesine model olamaz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:58:34 UTC | ID: ac2fbdc5b0b81d7ddd327b4d72cafc8d2bebbccef4292db7e1472ae14ce9e7be ===
+ Bir akıl yürütmenin geçerli olması ve doğru olması arasında bir bağ yoktur. Geçerlilik, akıl yürütmenin formuna ait bir özelliktir ve mantık doğrulukla değil, formla ilgilenir. Bir akıl yürütmenin geçersiz olduğunu söyleyebiliriz fakat biz içeriğinin yanlış olduğunu söyleyemeyiz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:58:39 UTC | ID: 3ade07bbaddaafd5b6f84192c673e9e9977e4114d68688a0f9a833bf7f1ffe25 ===
+ Safsataların özelliği mantıklı gibi görünmesidir. Bu yönüyle bir safsata geçerli gibi görünebilir ve -tabiri caizse- böyle görünmek için rol yapar.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:58:45 UTC | ID: a4988e4e4d7f0f347a74f06de919cb8e31eea9034f8b1dfa7470aaf094188e03 ===
+ Mantık soyut fikirlerle ilgilenmez, ilgilenmesi için cümlelere dökülmüş olması gerekir. Soyut fikirleri dil aracılığıyla cümlelere döker, mantık aracılığıyla inceleriz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:58:49 UTC | ID: 4c68d8462cfedede7e61b7c81ace39c2d1bd210287276e427e1a8dc7f7a67b36 ===
+ Bilimi doğru bilgi elde etmek için kullanırız. Mantık, doğru bilgi elde etmek için değil, geçerli bir akıl yürütmeyi denetlemek için uğraşır. Bu yönüyle, mantığa "mantık bilimi" yerine "mantık disiplini" demek daha uygun olacaktır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:58:54 UTC | ID: 5977070792929144ff20332dc740277f794b6d756c511426b520189f1dbb8809 ===
+ Dedüktif akıl yürütme, endüktif akıl yürütme ve analojik akıl yürütme olmak üzere üç akıl yürütme türü vardır. Güçlüden zayıfa doğru sıraladım. Diğer adlarıyla şu şekilde sıralayabiliriz: dedüksiyon (tümdengelim), endüksiyon (tümevarım) ve analoji.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:59:01 UTC | ID: 15167e17408830b05461ebb331b3c1e70b2f1bbb1211db21ce47b24c18e39f5f ===
+ Bir mantıksal form geçerli ise bu forma uygun olan tüm akıl yürütmeler de geçerli kabul edilir. Mantık, geçerlilikle ilgilenir. Bu yüzden, mantığın gözdesi dedüksiyondur. Mantık dedüksiyon dışındaki tüm akıl yürütme türlerinin (endüksiyon ve analoji) geçersiz olduğunu kabul eder.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:59:06 UTC | ID: 1a1a260fdc6a9cc2434c9eca620ef273969338b397131c8c730296a0f677a5c6 ===
+ Tüm insanlar maymundur. Tüm maymunlar sincaptır. O hâlde tüm insanlar sincaptır. Her dedüksiyon bütünden parçaya gelmek zorunda değildir. İnsan bütününden sincap bütününe geldik ve bütünden parçaya gelmedik. Bu örnekle dedüksiyonun bütünden bütüne gelebileceğini kanıtlamış olduk.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:59:11 UTC | ID: f224430da501f611fc5ee6464f9b5cdebe1d6be8fecc52254b78e762039e7bcf ===
+ Size mantıksal açıdan geçerli ama içeriği gerçekliğe uygun olmayan bir akıl yürütme yazayım. Tüm güvercinler kedidir. Pırpır bir güvercindir. O hâlde, Pırpır bir kedidir. Sonuç öncüllerden zorunlu olarak çıktığı için bu akıl yürütme mantıksal olarak geçerlidir diyoruz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:59:15 UTC | ID: 93bd423ed7d1e45785b5f4fc5cc5b22137e2c8d5bd4b675a1778061cc42b8ee7 ===
+ Sonucun öncüllerden zorunlu olarak çıktığı ve geçerli olabilen tek akıl yürütme türü dedüksiyondur. Bu nedenle her geçerli akıl yürütme bir dedüksiyondur; buna karşın her dedüksiyon geçerli değildir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:59:21 UTC | ID: 9b98646d13b28e355cf11dea99ad6358095977c06b6e22b0650a08115a107214 ===
+ Geçerli bir dedüksiyonda sonucun öncüllerde saklı olmasını bekleriz. Her dedüksiyon bütünden parçaya gitmek zorunda değildir. Bazı dedüktif akıl yürütmeler bütünden bütüne de gidebilir ama her dedüktif akıl yürütmede sonuç öncüllerde saklıdır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:59:30 UTC | ID: f6a07c1262d732ed548239a9192fa52d7bdbcb1d26342c17e88bfd35de4b9726 ===
+ Hepimizin zihni kestirme yollardan gitmeye meyilli. Mantık öğrenmek tam olarak bu yüzden değerli. Günlük dilde mantık dediğimiz şeyle mantık disiplini arasında bir fark var. Mantık disiplini gündelik hayatta da oldukça faydalı olduğu için bu farka dayanarak göz ardı edilmemeli.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:59:35 UTC | ID: 859d780b81a9c689ad7be365add2a6d83a1281fad5b9e56df60bbad6a370e129 ===
+ Dedüksiyon yeni bir bilgi açığa çıkarmaz. Bu doğası gereği böyledir zaten. Bir mantıkçı, dedüksiyonu denetleme amaçlı kullanır. Yeni bir bilgi üretmek için değil, bilgilerimizi denetlemek ve düzenlemek için dedüksiyonu kullanırız. Tek geçerli akıl yürütme türü dedüksiyondur.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:59:39 UTC | ID: 7438891983e7e931eac0e1ec05eb0234654d610712f65bb94f5c6a99aa2c9943 ===
+ Dedüksiyon ve endüksiyon arasındaki fark zorunluluktur. Dedüksiyonda sonuç zorunlu olarak çıkar. Bütünden parçaya ya da bütünden bütüne gidilebilir. Endüksiyonda ise sonuç olasılıksaldır. Parçadan bütüne doğru gidilir ve sonuç zorunlu olarak çıkmaz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:59:44 UTC | ID: 3f2ce7d42774c53e088523692eb959c11dda018a3d2710141252d7ef75b7e022 ===
+ Benim için otodidakt olmak, insanın doğuştan sahip olduğu mantıksal yetiyi mantık kurallarını kullanarak bir sisteme dönüştürme sürecini ifade ediyor.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:59:49 UTC | ID: d08db172baa0cd9b9c4e0247646e916175489d1857fcc9c31cb1f2d511fd185e ===
+ Başarılı bir yatırımcı veya başarılı bir mantıkçı olmak için çok zeki olmanız gerekmiyor.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:59:55 UTC | ID: 74cf3ed0b7ada02e9a6bf5d3092b4adbd6a00d6d479476052c75b6d68d125a9f ===
+ Bir gözlem yaptığımızı düşünelim. Akıl yürütme türlerinden endüksiyonu kullandığımızı varsayalım. Civcivleri gözlemleyelim. 10 tane civcive baktık ve hepsinin sarı olduğunu gördük. Endüksiyon gözlemi aşarak tüm civcivlerin sarı olduğu sonucuna varır. Bu yüzden geçersizdir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 19:59:59 UTC | ID: 8b82262cde454ba23ac782524083f53617c19313750b548d2e250c5d6fd96dce ===
+ Civcivler üzerinden verdiğim örneği hatırlayın. Akıl yürütme türlerinden endüksiyonu kullanmıştık ve gözlemlediğimiz 10 adet civcivden yola çıkarak tüm civcivlerin sarı renkli olduğu sonucuna varmıştık. Endüksiyon eksik ve geçersiz bir akıl yürütme türüdür.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:00:04 UTC | ID: 935687fa4f93430ffab96d6568059430901fee6029879ebd4b336731c9694d47 ===
+ Öğrenmeye fırsat bulamadığım zamanlar oluyor. Böyle zamanlarda şimdiye dek öğrendiklerimin değerini anlıyorum. Mantığı mutlaka hafızanıza kazıyın, öğrenerek heybenize koyun. Karşılaştığınız bir zorlukla başa çıkmak için heybenizden çıkarmanız gerektiği bir gün mutlaka gelecektir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:00:09 UTC | ID: 1ebabd7a4038003d68396de83149389990639ea6e876d43c19abb0495f4d450a ===
+ Bir veri bilgi statüsü kazanabilmek için mutlaka mantıksal bir form ve çerçeveye oturtulmalıdır. Bilginin ön koşulu mantıktır. İster bilimsel olsun ister felsefi olsun bu her türlü bilme etkinliği için zorunludur. Mantık bu olanağı sağlayan biçimsel ve zorunlu kurallar bütünüdür.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:00:13 UTC | ID: 29c3ff60328c417168112214d70cf72720d3edd769fb5c13f009dda65e9431cc ===
+ Zihnimizin bizi biz yapan parçalarını tehdit eden olaylara travmatik olaylar diyoruz. Travmatik olaylar insanda kalıcı izler bırakabiliyor. Beyin bunu kendi kendini korumak için yapıyor olabilir. Babamın ölümünden sonra beynimin kendini korumak için izler bıraktığını düşünüyorum.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:00:18 UTC | ID: 5e0487d078d9fe7d095efa4755ed1209bd5d7b998ef6886bc07a80ad125ee1dd ===
+ Dedüksiyon tümden gelme ya da tümden tüme geçme şeklinde gerçekleştirilir. Endüksiyonda durum tam tersidir. Bir çıkarım yapmak yerine varım yaparız. Tümden gelmeyiz ya da tümden tüme geçmeyiz, tüme varırız. Endüksiyonda varılan sonuç bir genelleme, dedüksiyonda ise zorunluluktur.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:00:23 UTC | ID: c9a65989582e4879d48c6eaeefc3e59b90bb21ec7bf38a754d686a33dc4b3c8f ===
+ Dedüksiyon tümden gelebilir ya da tümden tüme geçebilir ama endüksiyon doğası gereği asla tüme varamaz. Endüksiyonda varılan sonuç daima olasılıksaldır. Genelleme içermesi kaçınılmazdır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:00:34 UTC | ID: c8253b40ca0da79c4b5343bb547837e3ad6f23de6893161bb1ba070efefdac39 ===
+ 16 gün önce mantık üzerine yazmaya yeniden başladım. 40. notum dün yayımlandı. Bununla övünmüyorum. Mantık üzerine 1.193 kelime etmek zordur. Ben de zorlandım. Zihnimizin bizi biz yapan parçalarını tehdit eden olaylara travmatik olaylar dersek bu kesinlikle travmatik bir olaydır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:00:53 UTC | ID: 2a3d9254b8f522a2fb6dee8f4f1eb75840bcc155f1d662c03ee8b505612e6b43 ===
+ Mantığın ana konusu endüksiyon ya da analoji değildir, dedüksiyondur. Bu yönüyle mantık endüktif mantık ve dedüktif mantık olarak ikiye ayrılır. Tek geçerli akıl yürütme türü dedüksiyondur. Analojik ve endüktif akıl yürütmeler mantıksal açıdan geçerli türler olarak kabul edilmez.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:01:15 UTC | ID: b45445f6fc5cfd9d3a47ba355bcf33679c4060de0dce3d62f16fbe2aa7801d30 ===
+ Mantığın ana konusu endüksiyon ya da analoji değildir, dedüksiyondur. Bu yönüyle mantık endüktif mantık ve dedüktif mantık olarak ikiye ayrılır. Tek geçerli akıl yürütme türü dedüksiyondur. Analojik ve endüktif akıl yürütmeler mantıksal açıdan geçerli türler olarak kabul edilmez.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:01:26 UTC | ID: 579787b61e61af151261d2372b6225128248cdc394436af20c2565ea8da63394 ===
+ Dedüksiyon dışındaki akıl yürütme türlerinin geçersiz olduğunu söylediğimiz için endüksiyon ve analojinin değersiz olduğu sonucuna varılmamalıdır. Bir şeyin geçersiz olması değersiz olduğu anlamına gelmez. Endüktif ve analojik akıl yürütme türleri değersiz değil, geçersiz türler.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:01:54 UTC | ID: 89f79a3da1a80c2bbeca1c0470f313a7c03e21721dc738aafd8f71ac0a1c6076 ===
+ Analoji, ortak özellikleri olan iki şeyin özelliklerinden birinin diğeri için de ortak olabileceği sonucuna varır. Ben yirmi beş yaşındayım ve mantık üzerine yazıyorum. Deniz yirmi beş yaşında ve mantık üzerine yazıyor. Ben erkek olduğuma göre Deniz de erkek olmalıdır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:02:27 UTC | ID: 3cc1d58e4e3bd5d91db508f2d83672915715132dd0c85fede53614e3214719dc ===
+ Deniz de ben de mantık üzerine yazıyoruz ve ikimiz de yirmi beş yaşındayız. Benim erkek olmamdan hareketle Deniz'in de erkek olduğu sonucuna varırsam analoji yapmış olurum. Dikkat ederseniz bir tüme varma durumu söz konusu oldu. Analoji bu yönüyle tümevarıma benzerdir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:02:50 UTC | ID: 3d232935757a3c25679371a92ae414c299d55328cc9780ea99919b8edb90bbe7 ===
+ Analojide de sonuç zorunlu değildir. Hatırlarsanız endüksiyonda da sonucun öncüllerden zorunlu olarak çıkmadığını söylemiştik. Dedüktif akıl yürütme dışındaki tüm akıl yürütme türlerinde sonuç olasılıksaldır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:02:54 UTC | ID: 9d1d474680af8c9823ba901e51f7e89b953bfc0b66fc93330430175ef6595096 ===
+ Analojide özelden özele, endüksiyonda özelden genele gidilir. Endüksiyon: Kuğuların (özel) hepsinin beyaz olduğunu gözlemlediğime göre tüm kuğular (genel) beyazdır. Analoji: Benim kuğularım (özel) beyaz olduğuna göre Ahmet'in kuğuları da (özel) beyazdır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:02:58 UTC | ID: 6a766e20e42fda3029140bf1793f0b62b319bf46b2f43d524d25712298768502 ===
+ Mantık tek geçerli akıl yürütme türü ve dolayısıyla ana konusu olan dedüktif akıl yürütme ya da diğer bir adıyla dedüksiyon veya tümdengelim ile ilgilenir. Analojik akıl yürütme ve endüktif akıl yürütme ya da diğer bir adıyla analoji ya da endüksiyon mantığın ana konusu değildir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:03:01 UTC | ID: 17e5c25dc016dcf5d78048f181f52ec11c6cfdff35157a7b565d66364191bb32 ===
+ Mantık analojiyi kapı dışarı eder. Modern bilimin analojiyi kullanması mantık için önemli değildir. Analoji mantıksal olarak geçersizdir ve doğası gereği kesin sonuçlar vermekten uzaktır. Mantığın göz bebeği dedüksiyondur ve bu yüzden ona dedüktif mantık denmiştir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:03:05 UTC | ID: 162d88be84c4a421f8443cd3de06e09c31e40a4e1402ece3855d04517c7a8832 ===
+ Bir mantıkçı için herhangi bir kavramın gerçek hayatta fiziksel olarak var olması zorunlu değildir. Bizim için düşünülebilen her şey bir kavramdır ve akıl yürütmeler kavramlardan oluştuğu için gerçek hayatta var olmasalar bile mantıksal olarak geçerlidir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:03:09 UTC | ID: 6f566519b819e6f796a8db7d201e0e4f9ee949568706183ae980c2ed09d8036a ===
+ Bir mantıkçı için düşünülebilen her şey bir kavramdır demiştik. Her şey ne ise odur. Yani düşünülebilen bir şey kendiyle özdeştir ve kendisi dışındaki her şeyle çelişiktir. Kendisi dışındaki herhangi bir şeyle özdeş olamaz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:03:13 UTC | ID: 5428ffd7b3e199bffd9ebd6a370fa8206fba155fec487fcae3d41d8b7e376743 ===
+ Özdeşlik ilkesi ve çelişmezlik ilkesi elma örneği üzerinden birlikte düşünüldüğünde bir elma yalnızca kendisiyle özdeştir, yani elma elmadır. Bir elma, yalnızca kendisiyle, yani elmayla, özdeş olduğu gibi kendisi dışındaki her şeyle de çelişik olacaktır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:03:18 UTC | ID: 31ac6f98808783b6f2f11670689174e05e0da1e2a3598da07f1657d8d432c297 ===
+ Bir kavramdan söz edebilmek için o kavramın kendine özdeş ve kendisi dışındakilerle çelişik olması gerekir. Bir mantıkçı için düşünülebilen her şey bir kavramdır ve her kavram yalnızca kendiyle özdeştir. Bir kavram kendisi dışındaki her şeyle çelişik, kendisiyle özdeştir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:03:21 UTC | ID: d9ab9510b0909da72616205f10e18346eebff9083c2120003a6a6d9eda29cc55 ===
+ Klasik mantıkta kavramdan söz edebilmek için sırasıyla özdeşlik, çelişmezlik ve üçüncü halin olmazlığı ilkelerinden söz edebilmemiz gerekir. Bu üç ilke bir araya gelerek kavramı oluşturur.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:03:25 UTC | ID: 038eae10fdfee23386b6bed66099ebd6477633e83977ba1976acfeb885403ca1 ===
+ 9 + 4 ve 12 + 1 arasında eşitlik vardır ama özdeşlik yoktur. Bir şey yalnızca kendisiyle özdeştir. Kendisinden başka bir şeye eşit olabilir ama kendisinden başka hiçbir şeyle özdeş olamaz. 9 + 4 kendisine yani 9 + 4'e özdeştir. 12 + 1 kendisine yani 12 + 1'e özdeştir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:03:28 UTC | ID: c81bd642234cc1c017a26ae3e1dc5c0df080ecb3c80c745fc112013fb9b6d3bb ===
+ Mükemmeliyetçi biriyseniz öz güven eksikliği gibi ruhsal nedenler takıntılar oluşturmanıza sebep olabilir. Üçü de birbirinin nedeni hâline gelebilir. Bu gibi ifadelere mantıksal değil, psikolojik (bir neden sonuç içeren) ifadeler deriz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:03:37 UTC | ID: 28f41c6fc6d01ecdcf3c9738141b1d174d325cd269e659a967cb4fe9743c25d3 ===
+ Her kavramın yalnızca kendisiyle özdeş olduğunu "Bir şey ne ise odur." şeklinde ifade etmiştik. Özdeşlik, akıl yürütme boyunca korunmak zorundadır. Bir akıl yürütmede özdeşlik ilkesi ihlal edilirse o akıl yürütme ve dolayısıyla tüm mantık çöker.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:03:41 UTC | ID: eeae85973a36ded4ec5c0e2c365bf35e9315c846b628c51439d14f2f6bca2e14 ===
+ Anselmus'un dedüktif çıkarımı: Allah kendisinden daha büyüğü düşünülemeyen varlıksa hem zihinde hem de gerçeklikte var olması, sadece zihinde var olmasından daha büyüktür. Aksi takdirde kendisinden daha büyüğü düşünülebilirdi. Hem zihinde hem de gerçeklikte zorunlu olarak vardır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:03:45 UTC | ID: 0e50e4af5cc824fc0cd501b1b50793e432efdec37e0b626565b52727a9842fc2 ===
+ Bir akıl yürütmedeki önermeler, içeriğindeki terimlerin anlamı değişmediği sürece doğru ise doğru, yanlış ise yanlış kalmalıdır. Önermenin temsil ettiği doğruluk değeri sabit kalmazsa geçerli bir çıkarım yapamayız.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:03:49 UTC | ID: 45c111bf99d576e433f40d8664b73e1ee3efd5d1c292059912bd6ca66eef91d4 ===
+ Bir akıl yürütmede Allah'ı kendisinden daha büyüğü düşünülemeyen varlık olarak tanımladıysanız akıl yürütme boyunca bu tanıma sadık kalmalısınız. Aksi takdirde, geçerli bir çıkarım yapamazsınız. Özdeşlik ilkesi gereğince bu böyle olmak zorundadır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:03:53 UTC | ID: cf768724d1eb67425e04db36fdfa2e27d3b0a3cddca6d7540bda949a4f59a000 ===
+ Bir şey aynı anda hem kendisi hem de kendisinden başka bir şey olamaz. Bir şey ne ise odur ve kendisi dışındaki her şeyle çelişiktir. Elma yalnızca kendisiyle özdeştir ve armut veya şeftaliyle çelişiktir. Elmanın özdeş olduğu tek şey kendisidir, bir başka elma ile özdeş değildir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:03:56 UTC | ID: 08d35b40f759d5c5dbe4c236ea870c36996edc915e38aaae8c507e6ea850f19f ===
+ L. Wittgenstein binlerce sayfalık notlarının yeterince iyi olmadığını düşündüğü için onları yayımlamadı. Kafka'nın ölümünden sonra tüm yazılarının yakılması yönündeki vasiyetine uyulmadı. Mantık gibi hataya yer vermeyen bir alanla uğraşmak mükemmeliyetçilik üzerine düşündürtüyor.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:04:00 UTC | ID: 12290dffed08d6cf097ac5959d180d3bfb101db393361819279575c8ac9c5580 ===
+ İki şey arasındaki ortak özelliklerin sayısı ne kadar fazla olursa olsun, yani olasılık ne kadar artarsa artsın, analoji ve endüksiyon hiçbir zaman geçerli olamayacaktır. Mantıksal olarak tek geçerli akıl yürütme türü dedüktif akıl yürütmedir, yani dedüksiyondur.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:04:05 UTC | ID: 6a77b0b96d5474724f1f349bc0fc20eb9d65b390c931d1d35e15df0721f560b8 ===
+ Her A, B'dir. X de bir A'dır. O hâlde X bir B'dir formundaki bir dedüktif akıl yürütme (dedüksiyon veya tümdengelim de denebilir) örneği: Her teknolojik araç (A) insan ürünüdür (B). Yapay zekâ (X) da bir teknolojik araçtır (A). O hâlde yapay zekâ (X) bir insan ürünüdür (B).
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:04:09 UTC | ID: 38cd21a4f1c168ce687245addebbed1df771ca5ae7950afa8c7450cbffea2d5f ===
+ "Elma" ile "elma" ve "elma olmayan" ile "elma olmayan" özdeş ise "elma" ile "elma olmayan" çelişiktir. O hâlde bir şey yalnızca kendisiyle özdeş, kendisi olmayanla çelişiktir. Her şey yalnızca kendisiyle özdeş, kendisi dışındaki her şeyle çelişiktir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:04:13 UTC | ID: a15b36365b16858fc1e72eada78950fea5ad8f9fcf4db2a2c6e4db8aa6ecb3b3 ===
+ "Hayatta kalmak" ve "yaşamak" arasında bir fark var. Babam öldüğünden beri hayattan tat alamıyorum. İki saat önce altmış beşinci mantık notumu yayımladım. Duygusal bir sorunu, sadece mantıkla çözemeyeceğimle yüzleşmek üzereyim. Sanırım bunu mükemmeliyetçiliğimden yapıyorum.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:04:16 UTC | ID: 38d7eca6af70d0c0f5d670ca0f6e7f16a5134adc4a1467026363d41d4f9594c3 ===
+ Mükemmel olan değişime ve yeni verilere kapalı bir kesinlik gerektirir. İnsanın her türlü eylemi bir olasılık değeri taşır, düzeltilebilir, kesin değildir. O hâlde insan hiçbir şekilde mükemmel olamaz. İnsanın mükemmel olabileceğini kabul etmek doğasını reddetmektir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:04:20 UTC | ID: f5f9c4002fffc5864fb7ea9340414713480d2a1495f3586f685098ccb32d809c ===
+ Çelişmezlik ilkesi özdeşlik ilkesinden bağımsız düşünülemez. Hatırlarsanız, özdeşlik ilkesini her şeyin yalnızca kendisiyle özdeş olduğunu söyleyerek anlatmıştık. Çelişmezlik ilkesi ise her şeyin kendisi dışındaki her şeyle çelişik olduğunu söyler.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:04:24 UTC | ID: 987fdb11814315c35297798dd9ac4db88aa199514f49bab6d3f086cda4157d54 ===
+ Her şey kendisiyle özdeştir (özdeşlik ilkesi), kendisi dışındaki her şeyle çelişiktir (çelişmezlik ilkesi) ve kendisi ve kendisi dışındakiler dışında üçüncü bir kategori bulunmaz (üçüncü hâlin olmazlığı ilkesi). Bunlara klasik mantığın üç temel yasası diyoruz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:04:29 UTC | ID: e4e08f9aa343627c42a57739f173717c143abff5a3e6091fda8ad7d4131d2cc5 ===
+ Bir önerme doğruysa 1, yanlışsa 0 rakamını verdiğimizi düşünelim. Klasik mantığa göre bir önerme ya 1 değerini ya da 0 değerini alır. Klasik mantığa göre bir önerme ya doğrudur ya da yanlıştır. Aynı zamanda hem doğru hem de yanlış olduğu söylenemez.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:04:33 UTC | ID: f7cdb0ad248894c82c16acba7aee7aeb0cadf87189f0c851e2d9fd32fe642b62 ===
+ Günümüzde öne çıkan yeteneğin sadece bilgi edinmek değil, edinilen bilginin uygulamaya dökülmesi olduğunu düşünüyorum.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:04:38 UTC | ID: c52b32438f788b6f34afa7045af9e78258cd6ac531d84b1669917b0594f20fb5 ===
+ Çelişmezlik ilkesi de üçüncü hâlin olmazlığı ilkesi de özdeşlik ilkesinin bir türevidir. Özdeşlik ilkesi hiçbir koşulda reddedilemez. Temel ve değişmez ilke konumundadır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:04:41 UTC | ID: 624e70ded6c66dbd38a6d2ca57942aed994f844b1911e655f9e58c102a026187 ===
+ Birisi özdeşlik ilkesini reddedebileceğini savunuyorsa onun hakkında söyleyebileceğimiz şeylerden ikisi şunlar olabilir: Mantık bilmiyordur veya dünyayı değiştirmek üzeredir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:04:49 UTC | ID: a279f47654506a27fca84677ee9a32598d017d9768a0a344a04e62a6fe863453 ===
+ Bir önerme ya doğrudur ya da yanlıştır. Bu yasaya üçüncü hâlin olmazlığı (Üçüncü hâlin imkansızlığı ilkesi de denir.) diyoruz. Tıpkı çelişmezlik yasası gibi üçüncü hâlin olmazlığı yasası da özdeşlik yasasından türemiştir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:05:03 UTC | ID: 37a7b11b58f3c16545a74b6a1a569a8790e7bb0f94b708bff9398f2691f92000 ===
+ Bir insan ya evlidir ya da bekârdır. Evli bir bekâr düşünülemez. İşte bu mantık yasasına üçüncü hâlin imkânsızlığı diyoruz. İmkânsızlık diyoruz çünkü üçüncü bir hâl düşünemiyoruz. Dul ise ne olacak? Dul da bekârdır zaten.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:05:06 UTC | ID: d2c990ce36b5f9a47e3d448d8548acf3a0ac5e24d4a755de69cc7bb3f8965013 ===
+ Mantığın özdeşlik, çelişmezlik ve üçüncü hâlin olmazlığı yasası olmak üzere üç temel yasası vardır. Çelişmezlik yasası özdeşlik yasasından türemiştir. Üçüncü hâlin olmazlığı yasası özdeşlik yasasından türemiştir. O hâlde mantığın tüm temel yasaları özdeşlik yasasından türemiştir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:05:13 UTC | ID: a37b60b5575c3b654b43802e47f7034c1ec40c5a6d691eaa386aeeff182ab340 ===
+ Liseden sonra okul okumadım yani hiç üniversiteye gitmedim. Okula birinci sınıftan başladığımı düşünürsek on iki yılım okulda geçti. Tamamı için pişmanım diyemem ama mantık öğrenmek bu on iki yıla bedeldi benim için. Elbette burada okulu kötülemiyorum, kendi deneyimimi ele aldım.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:05:17 UTC | ID: 948ffd4de905c3bd0144afff03854cfc7fedc05ac56b2ca55cef722ba1f3815f ===
+ En eski tarihten günümüze kadar tek bir değişikliğe uğramamış, hakkındaki tüm eleştirileri boşa çıkarmış ve doğası gereği yıkılmaz olan tek mantık ilkesi özdeşlik ilkesidir. Çelişmezlik ve üçüncü hâlin olmazlığı gibi tüm mantık ilkelerinin temeli özdeşlik ilkesidir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:05:21 UTC | ID: 437fd935baecb147b5b1e30ee5786ad13af70c67c2a5c63622fa8153b7949714 ===
+ Evrendeki her şey değişim hâlindedir diyerek özdeşlik ilkesini eleştirmeye kalkarsanız bu cümleyi kurarken bile her kavramın kendisiyle özdeş olması gerektiği zorunluluğuyla karşılaşırsınız. Aksi takdirde bu görüşü bile ortaya koyamazdınız.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:05:24 UTC | ID: 0c07c5db536bd3b9006529d279414e65c8b051a0e53de6610e0d71af311f5e80 ===
+ Klasik mantık; özdeşlik, çelişmezlik ve üçüncü hâlin olmazlığı yasası olmak üzere üç temel yasa üzerine kurulmuştur ve tüm yasalar özdeşlik yasasından türetilmiştir. Binlerce yıldır geliştirilen tüm mantık sistemleri de temelde özdeşlik yasasına dayandırılmıştır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:05:28 UTC | ID: a83a93d8c15d0973a51bdeaa20f18e4eea4010ae9467c89f0b1795df017bde18 ===
+ Masanın üzerinde duran elma nasıl kendiyle özdeşse, zihnimdeki elma kavramı da kendiyle özdeştir. Özdeşlik hem nesneler hem de kavramlar için vazgeçilmez bir mantık yasasıdır. Aksi takdirde kavramların anlamları sürekli değişirdi ve düşünmek dediğimiz şey imkânsız hâle gelirdi.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:05:32 UTC | ID: 3f78ca924868ce11ee1014278306fd17cf69d42efc5f877f6dafc56762c0d608 ===
+ Kâğıda çizdiğiniz üçgen de yalnızca kendiyle özdeştir, zihninizdeki üçgen kavramı da sadece kendisiyle özdeştir. Her şey yalnızca kendiyle özdeştir. Kâğıda geometrik bir şekil çizmemizle zihninizdeki üçgen kavramı arasında özdeşlik ilkesinin geçerliliği açısından hiç fark yoktur.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:05:36 UTC | ID: 43eb0d0e290e87d54122c19383b2449a8af0bd922c50170b4bbea6e8e29cf168 ===
+ Bir önerme ya doğrudur ya da yanlıştır. Bu iki değer dışında bir doğruluk değeri yoktur. Klasik mantığın temel yasalarından üçüncü hâlin imkânsızlığı (veya olmazlığı) yasasına (veya ilkesine) göre bu böyledir. Latince "tertium non datur" şeklinde adlandırılır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:05:40 UTC | ID: cf3d4410a0b80cdeeb5451fb9789f701c66e500df278d670a31958d4a5fe1dbc ===
+ Geçmiş değiştirilemez. Değiştirilemez bir şeyi değiştirmek için enerji harcamak boşadır. O hâlde geçmişi değiştirmek için enerji harcamak boşadır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:05:44 UTC | ID: 528e46585c1f4c9efdeab8d2c9159cf489b65e1de4e81c81661b832b0457ac69 ===
+ Leibniz, ontolojide, var olan her şeyin bir varoluş sebebi olduğunu söyleyerek özdeşlik, çelişmezlik ve üçüncü hâlin olmazlığı ilkelerinin yanında dördüncü bir ilkeyi, yeter sebep ilkesini, savunmuştur.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:05:48 UTC | ID: 02bc7a990ed98fb89d7f6af5d04ca0aa8971b643fe9fbc729e5c0369e6a4960e ===
+ 1 Nisan'da çok ciddi olmayan bir doktor kontrolü için hastaneye gideceğim. Düşündüm de iyi ki, 7 Mart 2026 tarihinde, bu seriye başlamışım. Mart ayını 100 notla kapatmak istiyorum. Bu notla beraber (Mantık 101 ifadesine gönderme) 101 not olacak. Ömrüm yettiğince yazmak istiyorum.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:05:51 UTC | ID: 238914c5697a33ea016ef667092f81df0d2429ddade6484107189586fef4a489 ===
+ Ontolojide üç temel mantık ilkesinin yanına Satz vom zureichenden Grunde eklenir. Bu yasayı yeter sebep ilkesi olarak çeviriyoruz. Ontolojide dördüncü temel yasa olarak kabul ediliyor. Yeter sebep ilkesi, var olan her şeyin bir sebebi olması gerektiğini savunur.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:05:55 UTC | ID: f6f127f6b8effc528a2992799ee686e1ef5515fa9c1fc9065f525c925b0546f7 ===
+ Özdeşlik, çelişmezlik ve üçüncü hâlin olmazlığı ilkelerinin yanına Satz vom zureichenden Grunde (yeter sebep ilkesi) eklenir eklenmesine ama bu ilke yöntem hatası olarak değerlendirilmiştir. Formel mantık ilkesi olarak sayılamaz. Bir inanç olabilir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:05:59 UTC | ID: 5475b54f2db315f48ce9ef057e916a3e692d7145297c40be49eafe9495656bfc ===
+ Var olan her şeyin mutlaka bir varoluş sebebi vardır. Bunu bize söyleyen ilkeye, yeter sebep ilkesi diyoruz. İlkenin temel iddiası, evrende hiçbir şeyin kendiliğinden var olmadığı yönünde. Örneğin Leibniz, her doğru ifadenin mutlaka bir sebebe dayanmak zorunda olduğunu savundu.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:06:03 UTC | ID: 004d7cd4fb013bc34180032fbd1f7350e8364b891d248d56c15840fed9a9a5d9 ===
+ Mantık ilkeleri olmasaydı, yani mantık ilkelerini devreden çıkarsaydık, uzun vadede sağlıklı, geçerli akıl yürütmeler kuramazdık ve bu akıl yürütmeleri denetlememiz imkânsız hâle gelirdi. Bir disiplin olarak mantığın temel işlevi budur.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:06:07 UTC | ID: 0d005e73be3de1f680ea3d9465d2fef10427a14a454a492fdb661b14feb17d8f ===
+ Aristo'nun mantık üzerine yazdığı tüm eserleri "Organon" başlığı altında toplanmıştır. Organon alet demektir. Mantık disiplinini sistematik hâle getiren Aristo'dur. Mantık doğru düşünmenin Organon'u, yani doğru düşünmenin aletidir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:06:11 UTC | ID: 1e0cc5c17214183ca0056e3f87effba59c1582ef900744f943624e8e1ada44a3 ===
+ Ontologlar, zihinde var olan bir şeyin, mantıksal olanın, aynı zamanda gerçek olduğunu-gerçekte de var olduğunu savunmuşlardır. Modern mantıkta bu görüş reddedilir. Uçan, pembe, elmas dişli, ölümsüz bir fili tanımlamam, dünyada pıt diye bitivereceği anlamına gelmiyor.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:06:15 UTC | ID: fae856aff726e25a6006b8c713d2300200ba6210731dc499a1c899c5ba37a5de ===
+ Psikoloji ve sosyoloji mantıkla doğrudan ilgilenmez ama dolaylı bir bağ vardır. Örneğin, özdeşlik ilkesi psikolojide "ben bilinci" ile ilişkilendirilirken, sosyolojide "toplumsal kimlik" ile ilişkilendirilir. Mantık insan zihni ve toplumla bağlantılıdır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:06:19 UTC | ID: 0391b2475052a6008c80e95b0062018d70a54a45f8276f48036129023ba87d0b ===
+ Masanızda duran elma, aynı anda hem bir elma hem de bir kalem olamaz. Bunun mantığa aykırı olduğunu söyleriz ve şaşırırız. Elma, elma olarak kalmaya devam eder. Kalem ise kalem olarak kalmaya devam eder. Özdeşlik ilkesini bu şekilde gözünüzde canlandırabilirsiniz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:06:23 UTC | ID: e888c9467cc99d7ecd41b5cded22a32603ae393f3dd9152b06e3c37d84f4c94d ===
+ Mantık bile sarsılmaz değildir. Mantık bile diyorum çünkü mantığın hep sarsılmaz olduğu düşünülmüştür. Belki de beynimiz kafayı kırmamak için ilkeler uydurmuştur ve bu ilkelerle dünyayı anlamlandırmaya çalışıyoruzdur. Tüm bu ilkelere "mantık ilkeleri" adını vermiş olabilir miyiz?
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:06:26 UTC | ID: 31acb5edca008c1f285c976a6e385377f745115ae18934e7c9b6deb35b9928b1 ===
+ Bir kavramı mantıksal açıdan ele alalım. Mesela çiçek kavramı olsun. Önümdeki masanın üstünde bir çiçek var. Çiçek kavramının kaplamı sadece çiçekli bitkileri kapsar. İçlemi ise taç yapraklara sahip olma, üreme organlarını çiçekte taşıma gibi özellikleri kapsar. Bu bir ters oran.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:06:29 UTC | ID: fc86ed2144fce062e934731c259553561850e39f9daf216c50d05817b0e0ee3a ===
+ Doğruluk ve geçerlilik arasında mantık disiplini açısından uçurum bir fark var. Biz bu iki kavramı günlük hayatta birbiri yerine kullanabiliyoruz ama mantıksal açıdan farkını öğrenmekte fayda var. Doğruluk dış dünyayla ilgilidir, geçerlilik akıl yürütmenin formu ile ilgilidir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:06:33 UTC | ID: da352a2c91636720bfe964bf020fa0455e6e0a1193eedd846a31e412d7ee5bdf ===
+ 98. notumu yazarken ilk ayın bitmesine üzülüyorum. Şimdiye dek ​mantığın tanımı ve kapsamı, mantıklı düşünmenin ilkeleri, dilsel ifadelerin formel koşulları, önermeler ve yargı bildiren ifadeler, akıl yürütme süreci, öncül ve sonuç ilişkisi gibi konuları tamamladık.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:06:38 UTC | ID: 6143e8b2ebca2df7501116c4890ed418c68447fb3b7b6f3b395d2bc0fa49145f ===
+ Mantık akıl yürütme süreçleriyle ilgilenir. Düşüncenin içeriği mantıksal açıdan önemsizdir. Mantığa göre tutarlı bir çıkarım yapmak için üç temel ilkeye ihtiyaç duyarız. Özdeşlik, çelişmezlik ve üçüncü hâlin olmazlığı ilkelerine birçok kez değindim. Dördüncü yasa mantıksal değil.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:06:42 UTC | ID: c65b3d566c50c67c057292f1e097ad0f7562cf9ac53f62d938c16890f49a18d6 ===
+ Aristoteles'in sistematik hâle getirdiği mantık ilmini dilden arındırırsak sembolik mantığa ulaşırız. Mesela kuantum bilgisayarlar çok değerli mantık kuramlarına benzer bir yapı üzerine kuruluyor. Bu yüzden artık "mantık" demek yerine "mantıklar" demeyi tercih etmeliyiz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:06:44 UTC | ID: 0b108db16844c97080d4819b3d4f3f0d2d87348968d2c410b0113d39d0dc9688 ===
+ 20. yüzyılda üçüncü hâlin olmazlığının her zaman zorunlu olmadığı savunulmaya başlandı. 1 ve 0'dan çok doğruluk değerinin olduğu kabul edildi. Buna karşın salt mantık, kesinliği ve zorunluluğuyla çok değerli mantıkların dahi temelinde yatan sarsılmaz disiplin olmaya devam ediyor.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:06:48 UTC | ID: dc2fb9e1524413e1ced7230ba05b5a78e5588209fdca4de7e6ad68cdff6699c0 ===
+ Mantığın temel yasası özdeşlik yasasıdır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:06:52 UTC | ID: d4d9375e75f504bb5672fb23c3d4134518a1770ce6f8ba8a0c2678fb9bc2367c ===
+ Mantık hem bir keşif hem de bir icattır. Her normal insan mantıksal düşünmeye sahiptir. Keşfedilmeyi bekler. Mantığı semboller sistemi hâline getirmek (modern mantık) ve sistematik bir hâle getirmek (Aristo) ise bir icattır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:06:55 UTC | ID: f97b1f4548555830fc54b4b9dc3f5045aa93cb112d2c365a904f336cc6cd8bc0 ===
+ Evrenin bir sonu olduğu çok açık. Bir gün benim çalışmalarım da sizin çalışmalarınız da geri getirilemeyecek şekilde yok olacak. Buradan hareketle hiçbir şey yapmamamız gerektiği sonucuna varmak mantıksal olarak mümkün değildir. Tam aksine, bizi motive eden şey bu durum olabilir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:07:00 UTC | ID: 8366494d98b0ae9148d7ee0f4d9d79fc868cc0c10f04cb228b84bebcb0500e74 ===
+ Fideizm görüşüne göre dinî inancın temelinde aklın bulunması gerekmez. Akıl yerine iman, kanıtlar yerine inancın bulunması gerekir. Fideistler mantığı dinî inanç alanında yetersiz görürler. Saf iman, teslim olmak, Allah'a (a.c.) kayıtsız şartsız güvenmek yeterlidir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:07:38 UTC | ID: 79ace47513997b2669d8b58fafe92ee74a358edf8a8366db065669c7ba417f94 ===
+ Kafayı kırmadan önce mantık öğrenin. Kendinizi sağlam bir sorguya çekin. Başkaları hakkında söylediklerinizi, sizin hakkınızda söylenenleri iyice bir değerlendirin. Gerekirse ruhsal anlamda hayatta kalmak için bile mantık öğrenin.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:07:42 UTC | ID: 6cc3041ffbf7c8743b0ee9450b26cdda208cabf803b1d8e5e92ecca22bdf6a5f ===
+ Mantığın üç temel ilkesinden biri çelişmezlik ilkesidir. Bize bir şeyin aynı anda hem kendisi hem de başka bir şey olamayacağını söyler. Geleneksel mantık açısından vazgeçilmez bir yasa olduğunu söyleyebiliriz. Üçüncü hâlin olmazlığı yasası gibi özdeşlik ilkesinin bir türevidir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:07:45 UTC | ID: f4ecb290915f6e72fe0120e0330697d110372777945a4fd38f9e523ae0ce294c ===
+ Bir şey aynı zamanda hem kendisi hem de kendisinden başka bir şey olamaz. Bir insan aynı anda hem ölümlü hem de ölümsüz olamaz. Bu önermeyi çelişmezlik ilkesi sayesinde kurabiliyoruz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:07:49 UTC | ID: 3ac0f73a029e3162a5f019b2164dcae386328ce4296fb806bb800237f2ea4f09 ===
+ Bir şey A ise A olmayan değildir. Bu formüle çelişmezlik önermesi diyoruz. Çelişmezlik yasası olmasaydı özdeşlik yasasıyla sınırlı kalırdık ve düşünme evrenimizin sınırlarını çizemezdik.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:07:52 UTC | ID: 51aa299fb12a90402e37b6b59189cb5baf5678e74cb7876c8d382fb29d9c9bff ===
+ Bir önerme aynı anda, aynı şartlar altında hem doğru hem de yanlış olamaz. "Hava yağmurludur." önermesi doğruysa "Hava yağmurlu değildir." önermesi yanlıştır. Hem "Hava yağmurludur." hem de "Hava yağmurlu değildir." önermeleri aynı şartlar altında hem doğru hem de yanlış olamaz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:07:56 UTC | ID: 73b7a12350e88fca818d570e573d9c769127f9885a422362dcc7cb2c82501f0a ===
+ Varlık yasası, var olan bir şeyin aynı anda hem kendisi hem de kendisinin dışındaki bir şey olamayacağını söyler. Buna göre bir şey mantıksal açıdan çelişikse yani çelişmezlik ilkesini ihlal ediyorsa gerçek hayatta da var olması mümkün değildir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:08:00 UTC | ID: 871c89324b3a1c87498d59191da3b53ac75684bb5200ba7e4b3c09ad4bbbb744 ===
+ Çelişmezlik ilkesi düşünülebilen tüm şeyleri kapsar. Düşünme evrenimizi ikiye ayırır. A ve A olmayan şeklinde ifade edebiliriz. Bir şey ya kendisidir (buna A diyoruz) ya da kendisi dışındaki bir şeydir yani A olmayandır. Kendisi dışındaki hiçbir şeye A diyemeyiz. A olmayan deriz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:08:03 UTC | ID: 8085282d4ac01156bdd9de00bf931d1c9c966b07501f9871f20308a02a3c250c ===
+ Bir şey ya aktır ya da ak olmayandır. Ak olmayan deyince aklınıza kara gelmesin. Lacivert de ak olmayandır, fuşya da. Bir şey ya kendisidir (örneğin aktır) ya da kendisi dışındaki herhangi bir şeydir. Örneğin bir şey mavi ise mavi dışındaki tüm renkler o şeyin çelişiği olacaktır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:08:07 UTC | ID: ca2913cb6f7b37527cda1d2edd71972c888374642daf7e5b698055fdc9f83427 ===
+ Bir ifade çelişiksiz ise yani çelişmezlik ilkesini ihlal etmiyorsa mantıksal olarak doğru olabilir. İki değerli mantık sistemi adından da anlaşılacağı üzere doğruluk ve yanlışlık değerleri üzerine kuruludur. Sistemin temel taşı çelişmezlik yasası ihlal edilirse ifade yanlış olur.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:08:10 UTC | ID: c3d44681db583eb8dbda4893d77f69ea93de009f716e33cabaee75c78475c919 ===
+ Çelişmezlik ilkesinin temelleri Antik Yunan'da, Elea Okulu filozoflarından Parmenides tarafından atılmıştır diyebiliriz. Yasanın kökeni buraya kadar uzanıyor. "Var olan vardır, var olmayan var değildir" ifadesi Parmenides'e aittir. Özdeşlik ve çelişmezlik ilkelerine atıf yapıyor.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:08:14 UTC | ID: d05f3c365a9d5e5fb6dff376b1132109c3feabffedf77b504ad85a311d08bcaf ===
+ Çelişmezlik ilkesini sistemleştiren kişi Aristo'dur. Aristoteles çelişmezlik yasasını sistemleştirdi ve mantığın temeli hâline getirdi. Klasik mantık dışındaki mantık sistemlerinde üçüncü hâlin olmazlığı yasasının ve bu yasanın (çelişmezlik ilkesi) zorunluluğu tartışılmaktadır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:08:17 UTC | ID: 1f30bbd6b86befbc71f06f0590b5a3f4a925fa19213f7ebd3664ea63e79fc50f ===
+ Principium exclusi tertii yani Türkçede üçüncü hâlin olmazlığı (imkânsızlık yasası da denir) ilkesinin geleneksel mantığın üç temel ilkesinden (Diğer iki ilke özdeşlik ve çelişmezlik yasalarıdır.) biri olduğunu söyleyebiliriz. Üçüncü bir hâlin düşünülemeyeceğini ifade eder.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:08:20 UTC | ID: 5adb0f7ec1b1caba0c5377b8d9e4fae0084bbe1b09118ff463741cceaeddd6d1 ===
+ Düşünülebilen her şey ya A'dır ya da A olmayandır. Bunu bize üçüncü hâlin olmazlığı yasası söylüyor. İki durum dışında üçüncü bir durum olamaz. Yani bir şey ya kendisidir (Buna A diyoruz) ya da kendisinden başka bir şeydir (Buna da A olmayan diyoruz). Üçüncü bir hâl imkânsızdır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:08:23 UTC | ID: 3eb839b02de3c5ad57c57706269d33f144f64ed8be44e7b5699472c386dd5359 ===
+ Tertium non datur yani bir şeyin kendisi olması ve kendisi dışındaki herhangi bir şey olması dışında üçüncü bir hâl, seçenek yoktur. Üçüncü seçenek imkânsızdır, düşünülemez. Örneğin o şey elma ise ya elmadır (kendisidir) ya da elma olmayandır yani kendisi dışındaki bir şeydir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:08:26 UTC | ID: 80bb40f9320eeafb37e3ab37727f51900c643087c344e5be6c0812c5e7356a89 ===
+ Üçüncü hâlin imkânsızlığını önermeler açısından düşünecek olursak, bir önerme ya doğrudur ya da yanlıştır, üçüncü bir doğruluk değeri düşünülemez şeklinde ifade edebiliriz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:08:30 UTC | ID: d638ba93d703c9d11b06ba80b18ecb9b143a91d4b0e745b1b0674aec795b072e ===
+ Üçüncü hâlin olmazlığı ilkesi de (tıpkı çelişmezlik yasası gibi) özdeşlik ilkesinin bir türevi yani uzantısıdır. Hem özdeşlik hem de çelişmezlik ilkesinin bir uzantısı olduğunu söyleyebiliriz. Düşünme evrenimizi ikiye bölüyoruz bu ilkeye kulak vererek.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:08:34 UTC | ID: 86a28a62dd02035e62853094a444e27f3435b7e5e286f215aff257a5c53169ce ===
+ Bir şeyin var olup olmama durumu mutlak ve nettir. Bunu bize üçüncü hâlin olmazlığı yasası söylüyor. Burada bir kesinlikten söz ediyoruz. Üçüncü hâlin olmazlığı ilkesi sayesinde orta bir yolun mümkün olmadığını düşünüyoruz. İlke bize orta yolu düşünmenin imkânsız olduğunu söyler.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:08:38 UTC | ID: f099aa257c46bcb414914fc662c74a7c2dafe22c1e92b932c21540468eff294f ===
+ Üçüncü hâlin olmazlığı ilkesi neden mutlaktır? Çünkü varlık ve yokluk arasında başka bir seçenek, örn. gri alan yoktur. Neden nettir? Çünkü varlık ve yokluk arasındaki sınır keskin bir şekilde çizilmiştir. Bu yasaya dayanarak varlığı ve yokluğu âdeta bir kılıçla ikiye ayırıyoruz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:08:41 UTC | ID: 38fd41c5160f72b24f2c8d953547c1066b28cb43af4858d9192949c86aa47b74 ===
+ Geleneksel mantığa iki değerli mantık sistemi dememizin nedeni üçüncü hâlin olmazlığı yasası. Bir şey ya vardır ya yoktur, hem var hem yok aynı anda bulunamaz. Geleneksel mantık üçüncü hâlin olmazlığı ilkesini öğrenmeden öğrenilmez. Özdeşlik ve çelişmezlikten sonra gelen ilkedir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:08:46 UTC | ID: a0adcfd0dadfb8fe3ca218df2b4b6cc5a00d60a91319df03b28665118edd0836 ===
+ Günümüzde doğru ve yanlış dışında başka değerler de kabul ediliyor ama bunları geleneksel mantık dışında tutmakta fayda var. Çok değerli mantık sistemleriyle Aristo mantığını karıştırmamalıyız. Örneğin matematikçi L.E.J. Brouwer üçüncü hâlin imkânsızlığı ilkesine itiraz etmiştir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:08:50 UTC | ID: a43fdef8384617caf603388ca2b4c1c63f051f3498b9bf438ade24f88c7929c8 ===
+ Mantığın en temel ilkesi identite yani özdeşlik ilkesidir. Bir şey ne ise odur. Her şey kendiyle özdeştir. Düşünmek için özdeşlik ilkesine ihtiyaç duyarız. Mantığın diğer ilkeleri yani çelişmezlik ve üçüncü hâlin olmazlığı ilkeleri özdeşlik ilkesi türevidir (ondan türetilmiştir).
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:08:53 UTC | ID: e8d0648bd7a91fd3ffc5792958636f7f4d851097b5687fa90da0418ecd443406 ===
+ Özdeşlik ilkesini A, A’dır önermesiyle dile getirebiliyoruz ama burada iki ayrı şeyden bahsetmiyoruz, A'nın yalnızca A olduğunu dile getiriyoruz. İlkeyi tek başına ele alırsak bir şeyin kendisi olduğunu söylemekten öteye gidemediğimiz için yeni bir bilgi verme açısından kısırdır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:08:57 UTC | ID: d6f1cce54f15ebbf72e8ebf5b58a3cea571ef4655698a3f9b6013be4c2c36781 ===
+ A = A totolojik bir tekrardan ibarettir. Bir şeyin kendisiyle aynı olduğunu belirtir. Bu yüzden özdeşlik ilkesinin yanına A ≠ B diyerek diversitas yani çelişmezlik yasasını ekliyoruz. Bir şeyin aynı anda hem kendisi hem de kendisinden başka bir şey olamayacağını söylüyoruz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:09:00 UTC | ID: 6d3ac85c6ad1135e9061290efc8a32375c9a52bcd6c1003901a024e7aa82205b ===
+ Özdeşlik kavramını eşitlik veya benzerlik kavramıyla karıştırmamalı, özdeşliği ikisinden de ayrı tutmalıyız. İki ayrı şey çok sayıda ortak özelliğe sahipse benzerlik diyoruz. Tüm özellikleri ortak olursa eşitlik söz konusu olur. Bir şeyin bizzat kendisi olmasına özdeşlik diyoruz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:09:05 UTC | ID: aff1837ee04461d5569e73ace4fb0fd1229378d756db8c92eee70aca3b8f1ee4 ===
+ Özdeşlik yasasını ontolojide "Her var olan kendiyle özdeştir." biçiminde formüle ediyoruz ve var olanların her türlü değişime rağmen kendileriyle özdeş olan, değişmeden kalan bir özleri, sabit bir töz olduğunu ifade ediyoruz. Örneğin Leibniz'e göre her var olan tek ve biriciktir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:09:09 UTC | ID: 9882524d0beade6a282fa18983ae1cea111d43382824e5ecb84201d8a8c5fa37 ===
+ Geleneksel mantık özdeşlik ilkesine dayanır. Çelişmezlik ve üçüncü hâlin olmazlığı ilkelerinden vazgeçebilirsiniz ama özdeşlik ilkesinden vazgeçemezsiniz. Çok değerli mantık sistemleri bile özdeşlik sistemleridir. Aksi takdirde akıl yürütmek mümkün olmazdı.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:09:13 UTC | ID: 3999ca3e9ef0feb2ea934f14316e964864df50b0ff9972011152dfd5552adcae ===
+ Akıl yürütme en az iki düşünce arasında gerçekleşir. Düşüncelerden biri diğerinin kanıtlayanıdır. Kanıtlayan düşünceden kanıtlanan düşünceye, diğer adıyla sonuca, ulaşırız. Mantıksal açıdan bu sürece ispat süreci veya kanıtlama süreci diyoruz. Mantık her düşünce türünü incelemez.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:09:17 UTC | ID: b615991f4ec004b131c4105a87cb15e35c029d5a7687dcd4539cb274a3efe327 ===
+ Mantık ilkeleri tüm insanlar için geçerlidir. Türkçe konuşan bir insan için geçerli olduğu gibi İngilizce konuşan bir insan için de geçerlidir. "All humans are mortal", "tüm insanlar ölümlüdür" ya da "omnes homines mortales sunt" hangi dilde olursa olsun aynı anlama gelir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:09:20 UTC | ID: 25ad35ec241f3b8026af5abff981656145b96b6f4020cc62e227d553e9ae0b6f ===
+ Bir düşünce kanıtlama konusu olabiliyorsa o düşünceye yargı deriz. Yargı bildiren cümle türüne ise önerme diyoruz. Önermeler doğru veya yanlış olabilirler ama klasik mantıkta aynı anda hem doğru hem de yanlış olmaları imkânsız kabul edilir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:09:24 UTC | ID: 5535a63dff8e8c073e3d073c05b5683cb83d7ff63b4945476c647e917564f225 ===
+ Yanlış neden safsatası: yağmur istediğimde yağmıyor. O hâlde bulutlar beni duymuyor.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:09:28 UTC | ID: 63f0ddfcb74d7b5626c19bde746eebee290617ff498c0d2efe542118b259395e ===
+ En az iki önermeden birinden diğerini çıkarma işlemine akıl yürütme diyoruz. Akıl yürütmenin temel ögelerinden biri olan (gerekçe durumundaki önerme) öncül tek olmak zorunda değildir. Öncüller kanıt durumundadır ve bir akıl yürütmede birden fazla öncül bulunabilir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:09:31 UTC | ID: adc25f680719ff254036720d8d281dde8d6d9a969f180823ff1da953d3513279 ===
+ Öncüller, akıl yürütmede kanıt durumunda bulunur. Sonuç da öncüller de bir önermedir ve yargı bildirir. Sonuç, öncüllerden hareketle gerekçelendirilmiş önermedir. Mantık tam olarak bu noktada devreye giriyor, bu gerekçelendirmeyi denetliyor. Bu yönüyle mantık, denetleyicidir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:09:35 UTC | ID: 7b22fcd3909ebd3b4e6271f5765fc55f8907d97e40132da06bba7c252a77030d ===
+ Doğruluk ve geçerlilik aynı şeymiş gibi düşünülebiliyor, aralarında ciddi bir fark var. Mantıkta içeriksel doğruluk, yani içeriğin doğruluğu ve akıl yürütmenin geçerliliği birbirinden ayrıdır. Gerçekle uyuşmayacak şekilde kurulmuş önermeler geçerli bir akıl yürütmede bulunabilir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:09:39 UTC | ID: 378d6cf2a91033f5ef0201966b4549bb0a12d7599a0eaaa0cd532b6e904f72e7 ===
+ Mantık önermenin kendisiyle ilgilenmez. Örneğin "Dikdörtgenin dört köşesi vardır. Dünya'nın şekli dikdörtgendir. O hâlde Dünya'nın dört köşesi vardır." gibi bir akıl yürütme mantıksal olarak geçerlidir ama elbette doğru değildir. Doğruluk ve geçerlilik birbirinden ayrı şeylerdir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:09:42 UTC | ID: 4b905226b8ccfb28366916e71eeeb5f556f9e46272a6cbc750f20281ae4ea461 ===
+ Mantıksal çıkarım, yani akıl yürütme kurabilmek için en az iki önermeye ihtiyaç duyarız. Akıl yürütme bu iki önerme arasında kurulur, yani önermelerden biri diğerinin kanıtlayanı olur. Kanıtlayan önerme ve kanıtlanan önermenin olmadığı bir akıl yürütme kurulamaz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:09:46 UTC | ID: 648a906b1d4bffba74bb7f1f2973a6e9001b60f1e7cc5c8607d06610329dd5a6 ===
+ Mantıksal çıkarım türlerini temel olarak üç başlık altında inceleyebiliriz. Bunlar sırasıyla dedüksiyon, endüksiyon ve analojidir. Tümdengelim (dedüktif akıl yürütme), tümevarım (endüktif akıl yürütme) ve analojik akıl yürütme olarak da sıralayabiliriz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:09:50 UTC | ID: 698e648748f4292e97b11a36c439c212be4cbcd46b782ab63698f4c20bd9586f ===
+ Öncüllerin doğru kabul edilmesi durumunda sonucun zorunlu olarak çıktığı tek akıl yürütme türü dedüksiyondur. Dedüktif akıl yürütme mantıksal olarak geçerli kabul edilen tek akıl yürütme türüdür.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:09:54 UTC | ID: 8e19f6ecbcf5fe746d8ce7e8c866cf8852590e8830f130c30bfe8005dd0f3613 ===
+ Dedüksiyonun verdiği bilgi, öncüllerinde saklı olarak bulunur. Dedüktif akıl yürütmenin yeni bir bilgi vermek yerine öncüllerde örtük olarak bulunan bilgiyi açığa çıkaran doğasından ötürü onu bir denetleyici veya çözümleyici olarak konumlandırıyoruz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:09:57 UTC | ID: 8cb02333132b5ab19a886bda430f7e26abfeb963ad4f4164967c51414a4ad60b ===
+ Dedüksiyon bütünden parçaya gitmek zorunda değildir. Tümdengelim denmesinin nedeni bütünden parçaya gitmesidir ama tümden tüme geçmesi de mümkündür. 1. Bütün: Tüm insanlar maymundur. 2. Bütün: Tüm maymunlar sincaptır. Sonuç bütün: O hâlde tüm insanlar sincaptır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:10:02 UTC | ID: 0d84f0b4beb0c4ffe17d2045097cb2091a51f099d4b37a1b769202fbfdb97e3d ===
+ Tüm akıllı telefonların gri olduğu yargısında bulunursam tümel, bazı akıllı telefonların gri olduğu yargısında bulunursam tikel bir önerme yazmış olurum ama burada tümel veya tikel olan şey akıllı telefon kavramı değil, önermenin ta kendisidir. Bir kavram tümel veya tikel olamaz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:10:06 UTC | ID: 79d986b3eb2d7a81b6af33c3539a5cb5e83978f6d7cc4c2f124a89abbe80738c ===
+ Tanrı her şeye güç yetiriyor, her şeyi biliyor ve iyilik sahibiyse kötülüğü engellemekte ya iyiliği eksik kalır ya da gücü yetmez ve kötülüğü engelleyemez ama kötülük insan özgürlüğünün mantıksal bir sonucuysa mantıksal tutarlılık için özgür iradeyi koruyarak kötülüğü engellemez.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:10:17 UTC | ID: 067d5f03e3ff2cd9b51778fb4929b19cb8a5639bb2d2b957c57f5ba5a948ef34 ===
+ Bir kavramın kapsadığı, içine aldığı nesnelerin bütününe o kavramın kaplamı diyoruz. İçlem ve kaplam konusu mantığın en temel konularından biridir. İçlem ortak özelliklerin toplamı, kaplam işaret ettiği nesnelerin bütünüdür.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:10:21 UTC | ID: 6d6358255946bfa9257ce503076e8f34562a6d45917367225a6342684ecf3231 ===
+ İnsan önce kendinin farkına varır, sonra kendinden başka insanlar olduğunu öğrenir ve bu insanların kendiyle aynı olmadığı gerçeğiyle yüzleşir. Mantıksal açıdan özdeşlik ve çelişmezlik ilkeleri bu duruma işaret eder.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:10:25 UTC | ID: fbedc6667ae90d175935631992f18432caa63cd09cd56a64694fd4d2f4a64457 ===
+ Kaplam terimine extension veya şümul da denir. Bir kavramın şemsiyesi altına giren tüm varlıkları, örnekleri, tanımına uyan her şeyi kaplam kavramıyla ifade ediyoruz. Kaplam, kavramın tanımına uyan, kavramın işaret ettiği tüm bireyler ve tüm nesneleri eksiksiz bir biçimde kapsar.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:10:29 UTC | ID: 972aa1ac457c17eb4f3d167dcfd9b660fff6ce457a611d3daf6cce7260cb2b88 ===
+ İçlem ve kaplam ters orantılıdır. Kaplam arttıkça kavram daha çok nesneyi içine alır ve içlem azalır. Kavramın özellikleri arttıkça daha az nesneyi içine alır ve kaplam azalır. İçlem çoğaldıkça kaplam daralır ve kaplam arttıkça içlem azalır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:10:31 UTC | ID: ca26a7ce68250843b0115af0b27354e9763fede72960f941bd0efc915b46e894 ===
+ Gök cismi kavramı evrendeki tüm yıldızları, gezegenleri, asteroitleri ve galaksileri içine alır. Kaplamı geniştir. Ama sadece uzayda bulunan nesne olma özelliğini içerdiği için içlemi dardır. Kaplam ve içlem ters orantılıdır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:10:37 UTC | ID: d4756416667bf33df2821724ecfe29dd845e8244425cf71383f9cdd44f84cd0a ===
+ Gezegen kavramı yıldızları veya galaksileri kapsamaz. Kaplamı dardır. Ama gök cismi olma, bir yıldız etrafında dönme, küresel bir şekle sahip olma gibi özellikleri içine alır. İçlemi zengindir. İçlem zenginleştikçe kaplam daralır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:10:40 UTC | ID: 4c980d6d69498bc999aa951355d0327b8ac1c4adb761760343605992a5fb942c ===
+ Bir insanın söylediği ya doğrudur ya da yanlıştır. Hz. Muhammed için de aynı şey geçerlidir. İnancı doğrultusunda söyledikleri ya doğrudur ya da yanlıştır. Her iki ihtimalde de canını tehlikeye attı, 23 yıl boyunca işkence, boykot, hicret ve savaşlara göğüs gererek bu yola girdi.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:10:43 UTC | ID: cf9ff6833c700248a75c8b30c7394474ded1936da3ad5c50a0f5a8444b9c51df ===
+ Klasik mantık, Aristoteles'in Organon külliyatına dayanır ve tercümelerle İslam dünyasına kadar uzanır. Mantığın ilk öğretmeni Aristoteles, ikinci öğretmeni Fârâbî'dir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:10:47 UTC | ID: fe6eca45088bbd27996eb7751f46888845c7abd0e7056b5839f5675254e1fb8a ===
+ Mantık argümanların yapısını inceler. Doğru düşünme sanatı veya doğru düşünme bilimi olarak anılır. Mantıksal çıkarımları sistematik olarak tümdengelim, tümevarım ve analojik akıl yürütme gibi akıl yürütme türleriyle ele alır ve geçerlilik gibi yönlerden inceler.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:10:51 UTC | ID: 439898d9f712b2e0a4a9f6c042fd15f7e88dc9cbd23e9e0952c76862bf08c323 ===
+ Bilimsel etkinliklerde zorunlu olarak mantık ilkeleri kullanılır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:10:55 UTC | ID: 837db0993f56a70ffc38dbb9657b50cb006ee74f9c45a0089392b541d9d3becb ===
+ Bir şeyin kendisi ve kendisinin olmayanı düşünülebilen her şeyi kapsar. Düşünme evreninin tamamını kapsadığı için bu iki seçenek dışında üçüncü bir seçeneğin var olmasının imkansız olduğunu söylüyoruz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:10:58 UTC | ID: a129ac2712630167138e459ac9429599fc612f2d468d31a45ca63abacf04c953 ===
+ Düşünce nasıl oluşuyor? Düşünme hangi süreçlerden geçerek oluşuyor? Bu gibi sorulara psikoloji gibi alanlar yanıt arayabilirler ama mantık bunlarla ilgilenmez. Mantığın ilgilendiği şey tutarlılıktır. Doğru düşünmeyle ilgilenir. Biyolojik ve psikolojik süreçlerle ilgilenmez.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:11:02 UTC | ID: c14490b7f51dc504626f30d2a498623316deb0b510b558778753e43ca393e2c0 ===
+ Yeni bir sonuca ulaşmak için akıl yürütürüz. Usavurma için en az iki önerme gerekir. Biri kanıtlayan, biri de kanıtlanan olmak üzere iki önerme arasındaki akıl yürütmeye usavurma diyoruz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:11:07 UTC | ID: 46d054e4ea5e902bfe10846fd47db84c5384312f9b67ca4ff00c2e417a72f34e ===
+ Allah'ın bizim bilmediğimiz bir mantığı (mantık adlı disiplini kastediyordum) olabilir. Burada tabir caizse O'na özel kurallar (anlaşılır olsun diye basitleştiriyorum) olabileceğini kastediyordum. 
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:11:11 UTC | ID: b343544e6f34c4b3348703d6672173814b8620760dac6a49decb3d0c04fc01e4 ===
+ Öncüllerden hareketle bir sonuca varıyoruz. Bu sonuca sonuç önermesi, sonuca varana kadar kullandığımız önermelere (birinci öncül, ikinci öncül, üçüncü öncül) öncül diyoruz. Asgari bir öncül ve bir sonuç önermesi zorunludur. Aksi takdirde akıl yürütmeden bahsedemeyiz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:11:14 UTC | ID: 9082e54628ca6647bfa4f91dda2fa6c4f873132e1b204b94f041f274ba0c2512 ===
+ Sonuç öncüllerden zorunlu olarak çıkıyorsa geçerlilikten (validity) söz edebiliriz. Bir akıl yürütmede sonuç öncüllerden zorunlu olarak çıkmıyorsa akıl yürütme geçerli (valid) değildir (invalid).
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:11:18 UTC | ID: 0fa1dc0907ad70d8845f0327e50249d2bd26224befe19f724cb9522a8b729dfd ===
+ Bir önermenin içeriği gerçekliğe uygunsa "truth", yani doğruluktan söz ederiz. Dışarıda yağmur yağıyorsa "Dışarıda yağmur yağıyor." önermesini örnek gösterebiliriz. Doğruluk ve geçerlilik farklı şeylerdir. Konumuz geçerlilikse (validity) akıl yürütmenin formel yapısını inceleriz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:11:22 UTC | ID: 48f09db5b6a18f5ac2c09e3006defc282044bfe0a7baa35e030ad840b2f848b5 ===
+ Öncüllerin sonucu zorunlu kıldığı tek akıl yürütme dedüktif akıl yürütme (dedüksiyon) veya diğer bir adıyla tümdengelimdir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:11:26 UTC | ID: d25758228bd7772e154b1ac9bf2593966ba1fdc45848324d2ec6e5c5349ee6cb ===
+ Dedüksiyonun işlevi çözümlemektir. Temel işlevi çözümlemek olduğu için saklı olanı açığa çıkarır. Bilgi öncüllerde saklıdır, biz saklı olanı denetler ve açığa çıkarırız.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:11:29 UTC | ID: 7c870d55f8c8bfc0c24e0a45a616fd0353b7f35de13d9aa162ffeec9b09ddf8c ===
+ Tümevarım olasılıklı sonuçlara varır. Temel özelliği budur. Tekil gözlemlerden yola çıkar. Varılan sonuç öncülleri aşan genel ve olasılıksal bir sonuçtur.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:11:32 UTC | ID: ba947b9dae993df75d736d003dab66b6b2e0324204341118a4c35ae680ded182 ===
+ İki şey arasında bir ortak özellik varsa ve bu ortak özellikten yola çıkarak bu iki şeyin birinde bulunan özelliğin diğerinde de bulunacağının varsayıldığı akıl yürütme türüne analoji, benzeşim veya analojik akıl yürütme adını veriyoruz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:11:36 UTC | ID: f1aa13d7af271f0ccae012b6cebff1130eed852493a4e3e3055c7af31880e52e ===
+ Kavramlar (terimler), önermeler, çıkarımlar (dedüksiyonlar). Mantık konularının basitten bileşiğe doğru klasik sıralanışı bu şekildedir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:11:40 UTC | ID: b63cd31af3d5f88de07c9f20b6ddc46bcb4c7a436243fc717cc265b7534776aa ===
+ Özdeşlik İlkesi (Principle of Identity) Formülü: A, A'dır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:11:44 UTC | ID: 7c72cf0a4e392b5375f7c64edd2286357d7e5807279df63b54c69f693045ca13 ===
+ Bir şeyin aynı anda hem kendisi hem de kendisinden başka bir şey olamayacağını bildiren ilkeye çelişmezlik ilkesi (principle of non contradiction) denir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:11:48 UTC | ID: 84e20e517362de4ab4ad7b7db7d8ecaad3a1327e08bd5e81a7a58a9814d405e6 ===
+ Seçim özgür iradeyle yapılır. Şeytan seçim yapmaya zorlasaydı özgür irade ortadan kalkardı. İslam bu yüzden Şeytan'ın seçim yapmaya zorlayamayacağını söyler.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:11:52 UTC | ID: cee68d12674f66e9edfd7b90fc3c0e4647105d5f846f975bfe230eb82803110b ===
+ "Habil" veya "şu kalem" dersem tekil kavram kullanmış olurum ama "insan" veya "kalem" dersem genel kavram kullanmış olurum. Mantıkta kavramlar temelde ikiye ayrılır. Biri sadece nesneye işaret eder, diğeri nesnelere işaret eder.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:11:55 UTC | ID: d07dff6dee49f795c0f855f69ef880421b3729bd4112d173db448b9729669995 ===
+ Bir grubu ifade eden kavramlara kolektif kavramlar denir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:11:58 UTC | ID: c6f83e05bb74523755641bef28d5cfd5b7fc7e3a6db730870e27f9dc4435a871 ===
+ Distribütif kavramlar gruptaki herkesi ayrı ayrı kapsar. Mesela asker dediğimizde gruptaki (örneğin ordudaki) her bir insana asker demiş oluruz. Ordu kavramı ise kolektif kavramdır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:12:02 UTC | ID: 951f0c8dbd3aba456726283733ce0944b45b638190a4afb2ecaf9fd8941ef6b9 ===
+ Çoğu insan parayla imtihan edilse ve bu insanların hepsi kötülük yapmak için parayı kullansa dahi paranın kötü olduğu sonucuna varmamız mantıksal açıdan hatalıdır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:12:06 UTC | ID: 192e279f3780982ae1215a28109518bda9945e417973439bcdb983cdaf490c15 ===
+ Bir insanın kötülük yapması parası olmasına ya da olmamasına doğrudan bağlı değildir. Burada kurulan doğrudan ilişki mantıksal olarak hatalıdır. Paranın nötr bir araç olup olmadığı tartışmasından bağımsız olarak mantık hatasıdır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:12:10 UTC | ID: d885f2cbf2cb30b5d98423e1d4550b2535e363f59ccc30105457c4661a40e8a8 ===
+ Mantıkta açıklık (clair) sayesinde bir nesneyi diğerlerinden ayırt edebiliriz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:12:13 UTC | ID: 6abd87c0697605998ad9b66ce77af5d2f0520596a8131cf01db4de2218719c44 ===
+ Seçiklik (distinct) sayesinde kavramın özelliklerini (yani içlemini) kendi içinde ayırabiliriz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:12:17 UTC | ID: b9f6f5c3a4d2ea9ec47af3407e089be29ea571a2930bd9ec33fde595f8978ab5 ===
+ Diş ağrısı çok nettir. Dişiniz ağrıdığında başım dönüyor demezsiniz. Buna "açıklık" diyoruz. Ama hangi dişinizin ağrıdığını anlamazsınız da röntgen çekip baktırırsınız ya işte buna da "seçiklik" diyoruz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:12:20 UTC | ID: 3025738092f6b5a2d798ff3ef637c45c645937ef49560b32bdef2da3c8d48838 ===
+ Hepimizin görmesi gerekir. Görmeyene kör denir. Yokluk kavramı bulunması gerekenin bulunmadığını bildirir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:12:24 UTC | ID: 23843a174f451b9762ade14595460421f78786308144a3ba36156922310d370c ===
+ Ak ve kara arasında gri dediğimiz bir orta hal vardır. Çünkü ak ve kara karşıt kavramlar. A ve A olmayan gibi çelişik kavramlarda ise orta hal yoktur. Bir şey ya A'dır ya da A olmayandır. Çünkü bu iki kavram çelişiktir.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:12:28 UTC | ID: 41792822bb8473c3176e9c3ba12b0327ae00ba885dc02222af202547307ea254 ===
+ Ya bizdensin ya da düşmansın. "Bizimle olmak" ve "düşman olmak" çelişik kavramlar değil, bir orta hal var. "Bizimle olmak" ve "düşman olmak" karşıt kavramlar olduğu için orta hal olan "tarafsız olmak" da mümkün. Karşıt kavramlarda orta hal vardır, çelişik kavramlarda yoktur.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:12:33 UTC | ID: cdb8958bfd2e1c01b7969c25ed44fd65927de3a8e7c82829d42040a7e915eff9 ===
+ Her kavramın kaplamı arttıkça içlemi azalır, içlemi arttıkça kaplamı daralır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:12:37 UTC | ID: 78eecc79f0fccdb679b5b0d836068ef5153a3a8c6ef8a1f1dbd6fb170e3832e5 ===
+ İki kavram arasında ortak eleman yoksa (Örneğin taş ve kuş kavramlarını düşünün.) bu kavramların ayrık kavramlar olduğunu söyleriz.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:12:41 UTC | ID: 43efad24f08dfc82b463050785a7c1b05d64dcd065ddf83f4ebfc74bd127ba57 ===
+ Kavram hiyerarşisinde kaplamı en geniş kavram varlıktır. Örneğin canlıyı, hayvanı, omurgalıyı ve kediyi içine alır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:12:46 UTC | ID: 1b7d269f82787210bded6cff7bc8b58f429ddd72a2386880f0b4f99c7f52ef6a ===
+ Aristoteles varlığın en genel 10 belirlemesi için kategoriler terimini kullanır: cevher (töz), nicelik, nitelik, görelik, mekan, zaman, durum, iyelik, eylem ve edilim.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:12:49 UTC | ID: d89727e608a235fe5d7e19739feac7a108a5a9bef9ecc1032fa55cf566d64968 ===
+ Allah’ın olmadığı her senaryo yaşamın kendi özünde hiçbir anlamı olmaması yönüyle ortaktır. Siz istediğiniz anlamı verebilirsiniz ama yaratılışsal bir anlamı olduğunu söylemiş olmazsınız.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:12:56 UTC | ID: 0b119d86b4eb325cf3cef3b72f3b825ffe41702afde915ade56e04df5bba3e41 ===
+ Cins kavramı (yani genus) ortak özellikleri olan kavramları altında toplayan bir "genel kavram"dır.
+
+
+=== KIND: 1 | DATE: 2026-05-25 20:13:00 UTC | ID: 3fc6b9ce2ce0f98e3a6c74658347f84dbbcb44f621b328b800e2294993be345b ===
+ "Türkiye'nin Cumhurbaşkanı Mustafa Kemal Atatürk'tür." önermesi 1930 yılında doğru, günümüzde yanlıştır. Zaman, bir önermenin doğruluk değerini değiştirebilir.
+
+
+=== KIND: 1 | DATE: 2026-05-26 09:09:11 UTC | ID: 51414433dcef3daffb179afeabf51099e634e20ba0f21a3931f22ce976cfd5a8 ===
+Bir şirket kaliteliyse ve değerinin altındaysa (mantıksal olarak) uzun vadede yüksek getiri sağlamak zorunda değildir. Mesela, değerinin altında kaldığı sürede alternatif yatırım araçları bizim şirkete kıyasla yüksek reel getiri sağlayabilir.
+
+=== KIND: 1 | DATE: 2026-05-26 09:09:20 UTC | ID: 2e0df9f48a3a2679e2056fbf60a493dd2b389fa640ab5a0611a59a8e594d1a3e ===
+Yatırımda al unut yaklaşımının her zaman geçerli olduğu açık bir safsata. Al unut stratejisi ve aktif yatırım stratejisi dışında stratejileri görmezden gelmeyin. Ayrıca al unutun temeli uzun vadeli yatırıma dayanıyor, aldıklarınızı takip etmemek anlamına gelmiyor.
+
+=== KIND: 1 | DATE: 2026-05-26 17:28:04 UTC | ID: b142c290c865a40064d6ce3d21f902fca6a4f5eb63456f1fb81f734871ae37c4 ===
+İyi bir yatırımcı olmak için mantık disiplinini öğrenmek zorunda değilsiniz. Ama bana göre iyi bir yatırımcı olmak, özellikle iyi bir portföy yönetimi için doğru düşünmenin yollarını öğrenmek fayda sağlayacaktır. Bunun yolu mantık öğrenmekten, özellikle geleneksel (Aristo) mantığından başlamaktan geçer. Mantık öğrenmek tek yol olmasa da güçlü bir alternatiftir. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-26 17:28:44 UTC | ID: 3f2d59f73fbff77810ecb2b1d3c2c8a7be82ab512186a4f27bde8951ac25fe45 ===
+You don't have to study the discipline of logic to become a good investor. However, in my view, learning the methods of right thinking—especially for effective portfolio management—will provide a significant advantage. This involves studying logic, and specifically, starting with classical (Aristotelian) logic. While studying logic is not the only path, it is a powerful alternative. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-26 17:49:52 UTC | ID: 8b1392106caf6a47bcc45a0bcab5b5de7aea11c5184ac28db31a30d5e4c9376d ===
+We cannot say that every platform will end up like this, but it is true that paid subscriptions are given priority. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-26 18:09:29 UTC | ID: 5a103ec77e991c778232ecd4367d088c51c234f16f283d875f6c17a3cf6a00d8 ===
+Her şeyi bir kenara bırakacak olursam, tüm çalışmalarım silinse bile insanları mantık disiplininden haberdar ettiğim için kendimle gurur duyuyorum. Hiç kimseden çekinmeden yazdıklarım sayesinde yıllardır insanlığa hizmet ediyorum ve gerçekten değerli olan şeyin bu olduğunu düşünüyorum. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-26 18:10:59 UTC | ID: 690ab51d16572b2db14eabfcf340ab2c5e8c5df129b8f0618c53c86546dd3caf ===
+Putting everything else aside, I am proud of myself for making people aware of the discipline of logic, even if all my work were to be deleted. Thanks to what I have written without hesitating from anyone, I have been serving humanity for years and I think this is what is truly valuable. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-26 18:15:29 UTC | ID: b73ad6b647094c4628b42d3efcc69c5877c29009f07b035727bb27990e9fb7aa ===
+Is something similar possible on this platform too? 
+
+
+
+=== KIND: 1 | DATE: 2026-05-26 20:12:02 UTC | ID: 56f9147578590ad0ad61c6779f5afd169430d3605c8bd5b67a5804f5e2fd7516 ===
+Thank you. I mostly write about traditional logic, so quality matters more to me than follower counts. However, I worry about what happens if relays go down or become highly centralized. If only a few relays end up running the network, I fear I might have to pay just to keep my data from being deleted. And if something happens to me down the road, all the legacy I left behind could just vanish. Is there a permanent solution for data longevity here? 
+
+
+
+=== KIND: 1 | DATE: 2026-05-26 20:42:30 UTC | ID: 6989f1a4c6099438ac79a527091cd593c4e0e970b11d529632a53aab2e0e6899 ===
+Thank you for this great conversation. It’s 11:42 PM here in Turkey, and the day is coming to an end. I’m really happy to wrap up my day with a chat like this. It has been incredibly useful for me, and I hope it helps others too. Thanks again. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-26 23:25:51 UTC | ID: fa07c392cf6602e5723a1600c70ba9b7d8a5484b60374b77dfd908064bbd063e ===
+Tüm dünya matığın değerini anlasaydı bugün maruz kaldığımız pek çok safsataya itibar edilmeyen bir gezegende yaşıyor olurduk. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-26 23:26:09 UTC | ID: 65590ebaf0b6d7a9dcc013d2fc15a003fcb945d6ecdc6bdc4a4d514458ac805f ===
+If the whole world understood the value of logic, we would be living on a planet where many of the fallacies we are exposed to today are given no credit. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-27 16:45:22 UTC | ID: 187a77ad3489efcf1197ee8f7959ad0af03170ec21e5e151990b383746034b65 ===
+Yapay zekanın çalışma prensibi üçüncü halin olmazlığını reddetmez, olasılık teorisi ve istatistik kullanıyor olmanız size ilkeyi reddetme hakkı tanımaz. Bir olayın gerçekleşme ihtimali %70'tir önermesi de ya tamamen doğrudur ya da tamamen yanlıştır. Olasılığın %70 olması "yarım doğru" gibi bir şey olduğu anlamına gelmez. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-27 16:45:33 UTC | ID: f6939b0dc8a5683c74ee1870599caf3543a3baffb6e2130fd2ee0742734cdaef ===
+The working principle of artificial intelligence does not reject the law of excluded middle. Using probability theory and statistics does not give you the right to reject this principle. The statement "the probability of an event happening is 70%" is either completely true or completely false. A 70% probability does not mean it is something like a "half-truth". 
+
+
+
+=== KIND: 1 | DATE: 2026-05-27 18:17:28 UTC | ID: 1af71ce40137c4643c2e3758df8b11781e060fff07e389a39357eb48e5ea0152 ===
+Kendi dünyamızdaki küçük bir fiziksel acı hayatta kalma mücadelesinin yanında ne kadar önemsiz öyle değil mi? Allah Gazze'ye yardım etsin. Durumları çok ağır. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-27 18:17:41 UTC | ID: 71c7117b86eb65b6e2a00db0c3b2938e290e1009c9d7f44adc84dd9e865730fb ===
+Isn't a small physical pain in our own world so insignificant compared to the struggle for survival? May Allah help Gaza. Their situation is very severe. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-27 18:20:27 UTC | ID: b5edb3e62c8431d19aee012b8b61e1bb4615927e9b59e2d0bc0496ad0eea0e13 ===
+I already deleted it. It doesn't seem very possible for it to become as popular as X, but our hearts are with this place. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-27 18:24:29 UTC | ID: 9e7493416feb70864431398a0afbdb3de579628dc67347dd4db3c427cb788de2 ===
+Can you explain how to do that? 
+
+
+
+=== KIND: 1 | DATE: 2026-05-28 08:37:18 UTC | ID: 9c73f6f415adf5e46e268e2a46c108e5c4bfc301ab28246287283101f9335342 ===
+Bir önermenin doğru veya yanlış olduğu kesindir. Mantığın temeli önermelerden geçer. Türkiye'nin başkenti Ankara'dır bir önermeyken, "Bugün hava güzel mi?" gibi bir soru (doğru ya da yanlış olduğu kesin olmadığı için) önerme değildir. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-28 08:38:22 UTC | ID: 24942d24b46942b54fe37c18fc05a7a65c40456755ae8466e61b8a960d39cf98 ===
+A proposition is definitely true or false. Logic is based on propositions. The capital of Turkey is Ankara is a proposition. But "Is the weather nice today?" is not a proposition. This is because it is not definitely true or false. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-28 10:26:25 UTC | ID: 9d57f0253198fc69c6dc3a1d36d50a67de68036b536d4669259300fc617f5276 ===
+I guess institutional corporations always do this. To keep it free, it must be held just like you mentioned. We can feel the freedom of cryptocurrencies on protocols like Nostr, but I think the vast majority of people are unaware of this situation. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-28 11:16:46 UTC | ID: aaaa9dc557b2184c25f8cabe677cdd7b38a12ff7c5fb86f2c359c7790eefa978 ===
+Pek çok altyapı gibi Nostr altyapısı da geleneksel mantığa kadar uzanıyor. Felsefe mantığı, mantık matematiği doğurdu ve konu merkeziyetsiz sosyal medya platformlarına kadar geldi. Mantığa bu açıdan bakınca hayranlık duymamak elde değil. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-28 11:20:31 UTC | ID: a1d7fd36ae1a738d2b336f29797c0d557c0d9ad8886fadbebc0ebedf831a9468 ===
+Like many infrastructures, the Nostr infrastructure also dates back to traditional logic. Philosophy gave birth to logic, and logic gave birth to mathematics. The subject has come all the way to decentralized social media platforms. Looking at logic from this perspective, it is impossible not to admire it. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-28 11:52:55 UTC | ID: f0c6496ec19b8bfc6d7989a270749bd807b6997dee262b73b2b6c2de4a709817 ===
+Çoğu modern mantıkçı geleneksel mantığı kabul eder ve geleneksel mantığın attığı temel üzerine ihtiyaçları dahilinde geliştirmeler yapar. Modern mantıkçıların sayısından bağımsız olarak mantıklı olan da budur. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-28 11:55:38 UTC | ID: e172edbdb766c73f075388e4375e69f0dd59109469a98d7fa476c31f29ae22c5 ===
+Most modern logicians accept traditional logic and build upon its foundations to develop it further as needed. Regardless of the number of modern logicians, this is the logical approach. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-29 13:28:56 UTC | ID: d067c8680f09d550538a941df3ee1aaae1f8b2793cd200e9a5afac0d72873cdd ===
+Mantık bilmek sizi kaya gibi sağlam yapmaz. Mantık öğrenmemizin böyle bir amacı yok. Her zaman ruhsal sorunlar yaşayabilirsiniz. Mantık öğrenmemizin nedeni doğru düşünmeyi öğrenmek. Bu sayede safsatalardan bir nebze olsun kaçınabiliriz. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-29 13:29:01 UTC | ID: e4e950c288eb75ea80cc4bdec65cea9d43e1b4407e819e4a9411f6ceb507f689 ===
+Knowing logic doesn't make you rock-solid. That is not the purpose of learning logic. You can always experience psychological issues. The reason we learn logic is to learn how to think correctly. This way, we can avoid fallacies to some extent. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-29 15:26:19 UTC | ID: cceef4ffefde6668086b91d3c2fa6c0964a94c72a62bb98935bdda37bdb83d37 ===
+Mantığın temel amacı size verilen bilgilerden (mantıkta bu bilgilere "öncül" diyoruz) hareketle kesin (yanıltıcı olmaması gerek) sonuçlara nasıl ulaşacağınızı göstermektir. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-29 15:27:07 UTC | ID: 5e860544bad325a76b05b52626613c2ff747c0ec0b4516de40dca4e9e9e876c6 ===
+The fundamental purpose of logic is to show you how to reach definitive conclusions (which must not be misleading) based on the information given to you (in logic, we call this information "premises"). 
+
+
+
+=== KIND: 1 | DATE: 2026-05-29 15:35:32 UTC | ID: 011a6cb6144d89cb8461cbbf8d601b55128c2742f0d9303d62257906ceefa8ed ===
+I wonder, is there really not a single politician who genuinely supports it? 
+
+
+
+=== KIND: 1 | DATE: 2026-05-29 15:39:49 UTC | ID: bcf38ce4e9e216e890ae11c4822b9d5a0392e9bb2d657bea3f8a94a2fe746b8e ===
+We agree that they will achieve a much bigger following and success compared to content creators who just stick to material for people already here. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-29 15:55:01 UTC | ID: 3391576cdb183805898648bd8e02f07a83253b71ecf2a98713834c9deb36740f ===
+Bilimde uzlaşılar, varsayımlar; mantıkta ise kesinlikler vardır. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-29 15:56:01 UTC | ID: ad639feea8a532fed416b21145e927cd9a1baea6f508309fb1abfc0cf44496ae ===
+In science, there are consensuses and assumptions; in logic, however, there are certainties. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-29 16:02:07 UTC | ID: d96de72d296daa0a212933531defe676910e00dedcd8aa44fbc3f12976da876f ===
+Ahahahah  
+
+
+
+=== KIND: 1 | DATE: 2026-05-29 16:11:08 UTC | ID: af1e3f2a134299be42794f486d5fd92372eaf096786df8c30b1ae3af6105a7af ===
+Modern mantık kaplam mantığıdır ve kavramlar yalnızca semboller ve matematikle incelenemez. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-29 16:11:13 UTC | ID: ab0cbe2b9cbc21a062ed821e6ebaccbc02729097baefdaab49843f9b6a302b50 ===
+Modern logic is an extensional logic, and concepts cannot be analyzed solely through symbols and mathematics. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-29 17:30:59 UTC | ID: 90b97a420ab9757e4bbb054994daf8117c835ba054401755b1762257f6b30219 ===
+Bilim yapmak için genellemeler yapmak zorundayız. Bilim yapamadığımız şeylerde de genellemeler yapmak zorundayız. En popüler telefonu bulmak için istatistik tutabilir, tutamadığımızda gözlemlerimizden yola çıkabiliriz.
+
+Bilim yapmak, her şeyin bilimsel yöntemle incelenmesi gerektiği yanılgısına bizi düşürüyor. Bilimin kendisi de kesin değildir. Bilimin kendisi de genellemedir. Mantığa kıyasla pratiktir. Bazen bilim yapmamak pratiktir. 
+
+
+
+=== KIND: 1 | DATE: 2026-05-29 17:32:48 UTC | ID: 3e1274c2d85733007f36ee2d9ce3e97528032d0c8d20492282666b2b5402a581 ===
+To practice science, we have to make generalizations. We also have to make generalizations in areas where we cannot apply science. To find the most popular phone, we can collect statistics, and when we can't, we can rely on our observations.
+
+Practicing science leads us into the misconception that everything must be examined through the scientific method. Science itself is not absolute. Science itself is a generalization. Compared to logic, it is practical. Sometimes, not doing science is practical. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-26 13:34:25 UTC | ID: 3befa5b2dd4f3aeda8eccce35cce4bf0ded11a6064d70817637e30341ecbe58a ===
+Ayetleri, hadisleri ve klasik mantığı kullanarak hüküm çıkarabilirsiniz. Ancak ayetler hakkındaki bilginiz, hadisler hakkındaki bilginiz ve mantık bilginiz eksik olduğu sürece hatalı sonuçlara varmaktan kaçınamazsınız. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-26 15:06:16 UTC | ID: 972453cd0f1c5ae3b58d1665cd30e7ce25e559be3542f46a04f3c06b004f858f ===
+Köşeli daire, evli bir bekâr, dört kenarı olan bir üçgen gibi örnekler mantıksal olarak imkânsızdır. Buna rağmen dilsel olarak ifade edebiliyoruz. Bir mantıksal imkânsızı dilsel olarak ifade etmek imkânsızlığı ortadan kaldırmaz. Tüm bunlar tanımı gereği imkânsız kabul edilir. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-26 15:55:56 UTC | ID: 00c614bf092ffa6aac28fd3e0d3d5b846c7e6c2578e6ba069e9af591093bc5ec ===
+Her şeye kadir olan Allah (c.c.) evli bir bekâr gibi mantıksal olarak imkânsız bir şey yaratabilir mi? Evli bir bekâr var olabilme kabiliyetine sahip olmadığı için "hayır" cevabı, Allah'ın (hâşâ) âcizliğini değil, sorunun saçmalığını gösterir. Evli bekâr kendi içinde imkânsızdır. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-27 07:24:39 UTC | ID: 2b12d6e03fa686b5b8fc4a2bb7ba50d4c185ecd01bf6fa0ade3069f70e245ca1 ===
+Mantıkçı için "Bu önerme doğru mu?" sorusunun hiçbir önemi yoktur. "Bu akıl yürütme mantıksal olarak geçerli mi?" Mantıkçının sorusu budur. Önermelerin içeriğiyle ilgilenmez. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-27 07:38:21 UTC | ID: 9fb99190933183abe8e9d34caba81fbc01a68fd236e1de30901a9dc1408a5ce2 ===
+Tüm mantıkçılar insandır. Tüm insanlar iki ayaklıdır. O hâlde tüm mantıkçılar iki ayaklıdır. Mantıkçı bunu şöyle okur: Bütün A'lar B'dir. Bütün B'ler C'dir. O hâlde bütün A'lar C'dir. Akıl yürütme geçerli. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-27 07:58:04 UTC | ID: a9942b457c533ff5a16710d1c6c977641eef755e1c2a81e96152c23a01bc9bcc ===
+"Hava yağmurluysa sokaklar ıslaktır." gibi bir önerme duyan mantıkçının aklına "Sokaklar ıslak değilse hava yağmurlu değildir." önermesi gelir. Mantıkçı eş değer önermeler bulur ve safsataları tespit eder. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-27 08:16:10 UTC | ID: 02bee10f7c53e0e93fc783c2415d391fddbb68007c92d0d5af9d941f7e7309e2 ===
+"Hava yağmurluysa sokaklar ıslaktır." önermesinin tersi (iki tarafın da olumsuzu alınır): "Hava yağmurlu değilse sokaklar ıslak değildir." Karşıtı (yerleri değiştirilir): "Sokaklar ıslaksa hava yağmurludur." 
+
+
+
+=== KIND: 1 | DATE: 2026-09-27 09:02:46 UTC | ID: 3471b62d4b47c2e7cf569dec9c6a53f7460838f15252a169cd6eb9663276092c ===
+Doğru bir önermenin ne tersi ne de karşıtı doğru olmak zorunda değildir. Ama karşıt tersi daima doğru olmak zorundadır. Karşıt tersi aynı şeyi ifade eder: "Habil bir insansa iki ayaklıdır." "Habil iki ayaklı değilse bir insan değildir." 
+
+
+
+=== KIND: 1 | DATE: 2026-09-27 09:17:29 UTC | ID: dd5381deea6aee2b6f7353e713e03aad1530d14e97fd34de5847751ecf012cf2 ===
+"Habil bir insansa iki ayaklıdır." önermesi doğru. Karşıtı: "Habil iki ayaklıysa bir insandır." önermesi yanlış. Tersi: "Habil bir insan değilse iki ayaklı değildir." önermesi yanlış. Karşıt tersi: "Habil iki ayaklı değilse bir insan değildir." önermesi doğru. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-27 09:39:39 UTC | ID: f4a23f9b1ceb66278cdc449cd30aea28eb60a057ff7a09cb2aa7c134c1fcfd3a ===
+"Habil bir insansa iki ayaklıdır." önermesinin sembolik yazımı: p → q. Karşıtı: q → p. Tersi: p' → q'. Karşıt tersi: q' → p'. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-27 09:51:55 UTC | ID: 11f8c8c53e0cd1486b197af9c05b8e35e1420c995b6e5dc79e4d79d71073d955 ===
+Mantığın sembol sistemi evrenseldir. Matematik için de aynı şeyi söyleyebiliriz. Dünyanın neresine gidersek gidelim ("p → q" gibi) sembollerle gösterilir kavramlar. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-27 11:27:33 UTC | ID: f0767927f711c5d26524dfd456ca82bd34c844680d260d61a1a1136e20cd4cb2 ===
+Mantıkçının deney alanı aklıdır. Tutarlılığı denetlemek için akleder. Akıl, yürüyen bir şeydir. Mantıkçının görevi, aklın adımlarını denetlemek; önermeler arasında tutarlılık bulunup bulunmadığını ve dolayısıyla sonucun zorunlu olarak çıkıp çıkmadığını kontrol etmektir. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-27 11:41:17 UTC | ID: cd6ee29c98cb6cd1a66e9791a20ca557b281f9d50a4fde3434a5c98306d6344c ===
+Bilimin bir akıl yürütme türü kullandığını ve bunun tümevarım olduğunu söyleyen bir kişi, bilimi ve akıl yürütme türlerini bilmeyen bir kişidir. Tümevarım, tümdengelime göbek bağıyla bağlıdır. Aksi olasılık çöplüğü olurdu zaten. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-27 16:18:19 UTC | ID: b89f6532433abb3fab24fc5ed17ebebacba446daf3de4d668ddbab6f6af46ffb ===
+Şer, yalnızca yapmakla değil, yapmamakla da açığa çıkar. Dişlerini fırçalamamak, yardıma ihtiyacı olan birine el uzatmamak, hakkı savunmak yerine bâtıla sessiz kalmak... Örnekler çoğaltılabilir. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-28 09:02:39 UTC | ID: 0f71057a262bf8e71e2240d7319e7c70a57eed96f681f8eb9c43af9dac003626 ===
+Yapay zekâ gelecekte katrilyonlarca veriye sahip olsa da tek bir kelimeyi bile gerçekten anlayamayacak. Matematik hesaplarıyla, eşleştirmeler yaparak "düşünmek" ve dünyayı anlamlandırmak bambaşka şeyler. İnsan dünyayı olasılıklardan ibaret görmüyor, onu yaşayarak anlamlandırıyor. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-28 18:24:36 UTC | ID: 9812685f34e34ba0f386ee6a01819ad0c4ca79da17b4c4cc33e51ea055fc10d6 ===
+İnsan, Allahsız yaşayamayacağını bilir. Buna rağmen vazgeçilmezlerini iş, aşk, para gibi şeyler arasından seçer. İnanan birisi için bunlar dünyevi olmaktan öte değildir. İnanmayan birisi içinse hayatının anlamı bile olabilir. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-28 19:14:02 UTC | ID: 8cc1330adc679454c4dd4bd3cdfbc5e137d99d11d68403f119e894bb135e1478 ===
+Bir önerme ya kategoriktir ya da kategorik değildir. Kategorik olanlar, kategorik olmayanlara göre basit yapıdadırlar. Yüklemli ve bileşik olarak da ikiye ayrılabilir. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-28 23:43:08 UTC | ID: 7ea4192befebaec10b5e552f73dda18f3e6cad48c8f569285d6b626b2d346db2 ===
+Dedikoduları değil de aklı merkeze alarak yatırım yapmalıyız. Bu düşüş ders çıkarmak için iyi bir fırsat. Verilerin tek başına yeterli olmadığını gördük. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-29 00:00:43 UTC | ID: 77bdb9560f560bead7a76b1f8084487f9fe92bd545caf86a7fdea2d5f23d3451 ===
+Portföyünüzden düzenli olarak para çekseniz de çekmeseniz de tüm paranızı borsaya yatırmak doğru bir strateji olmayabilir. Düşüş dönemleri ve yatırımcı psikolojisi dikkate alınınca hem düşük hem de yüksek riskli varlıkları bir arada bulundurmak daha mantıklı görünüyor. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-29 00:21:03 UTC | ID: f6ca5c0b098cd8f39bb3dba17a63a9b8987e9e9a98d0cc16274705eba62caba9 ===
+Bazı yapay zekâ modellerinin eğitim işlemlerinin durdurulması robotların dünyayı ele geçireceği anlamına gelmez. Evet, kimse bu anlamı doğrudan kastetmiyor ama kamuoyuna korku pompalanıyor. Yapay zekâ, yapay zekânın ürettiği verilerle değil, biz insanların verileriyle besleniyor. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-29 00:41:30 UTC | ID: c3c800b2a87b501e46feb8aea45c0be0eb0716552d93f5094d0c1ac4ab205946 ===
+Tümel ya da tikel kategorik önermeler için yalnızca dört seçenek vardır: Tümel olumlu (sembolü A), tümel olumsuz (E), tikel olumlu (I), tikel olumsuz (O). Sırasıyla: "Bütün X'ler Y'dir.", "Hiçbir X, Y değildir.", "Bazı X'ler Y'dir." ve "Bazı X'ler Y değildir." 
+
+
+
+=== KIND: 1 | DATE: 2026-09-29 02:03:25 UTC | ID: cd9d4fda74af60353ed47c71c529785f23b8e136c508b8628112eaab25d33b1d ===
+Mantık, doğru düşünme sanatıdır. İnsan doğru düşünmek için mantık kullanır. Mantık derken, Aristoteles mantığını (klasik mantık) kastediyoruz. Tutarlı düşünceleri ayırt edebilmek için Aristoteles mantığını öğrenmekle başlamalıyız. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-29 15:41:03 UTC | ID: 4b9c3430146adb74b6c0d735d8b318b84bbe833a518efb94b4e80c5cdb7da87f ===
+Sherlock Holmes tümdengelim kullandığını söylese de abdüksiyon (ve tümevarım) kullanıyor. Çıkarımları kesin değil, en yüksek olasılığı seçmeye çalışıyor. Gözlem yapıp parçaları birleştiriyor ve bir hipotez ortaya koyuyor. Yazar tümdengelimin ne olduğunu bilmiyor muhtemelen. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-29 16:10:55 UTC | ID: a790c49b52a4062429d0360b89b774af417e8fd22905e0b23b3cf5d4c2fca324 ===
+Abdüksiyon hipotez (geçici açıklama); tümevarım genelleme üretir. Bu kuğu beyaz, şu kuğu da beyaz, o kuğu da beyaz, o hâlde tüm kuğular beyazdır. Bu tümevarım. Bu da abdüksiyon: Çimler ıslak olduğuna göre gece yağmur yağmış olabilir. Sherlock Holmes bu iki yöntemi temel alıyor. 
+
+
+
+=== KIND: 1 | DATE: 2026-09-30 12:50:44 UTC | ID: f1c013b35849d967008501fb076ff35cbd3a528b94c2d00678c06fc7cdd5a9f6 ===
+Kategorik önermelerde şu üç şey bulunur: özne (Habil), yüklem (insan) ve bağlaç (-dır). Kategorik önerme örneği: "Habil bir insandır." 
+
+
+
+=== KIND: 1 | DATE: 2026-09-30 22:48:40 UTC | ID: 195abaaef74be8f3c2fd1a78d76b0f88220c8a615c87a622a9b3f099e891ab9c ===
+Modal önermeler (Kategorik olmayan önermelerdir.) gerçekleşme biçimine odaklanır. Mesela, "Yarın yağmur yağacak." cümlesi kategorik bir önermedir; modal olsaydı şöyle olurdu: "Yarın yağmur yağması mümkündür." Mantık kurallarına, doğa kanunlarına vb.ne göre... 
+
+
+
+=== KIND: 1 | DATE: 2026-09-30 22:49:04 UTC | ID: 4fc4972f7cd59ad1bce14f1cf9d0dcdde3ea2900f08d81bfab1dfd12f52da4cd ===
+Modal önermeler (Kategorik olmayan önermelerdir.) gerçekleşme biçimine odaklanır. Mesela, "Yarın yağmur yağacak." cümlesi kategorik bir önermedir; modal olsaydı şöyle olurdu: "Yarın yağmur yağması mümkündür." Mantık kurallarına, doğa kanunlarına vb. ne göre... 
+
+
+
+=== KIND: 1 | DATE: 2026-10-01 01:25:49 UTC | ID: 1a3bf39f1e5b3cca53592f7c5dcc3a9690ed336c54ac863e6c11a03ea0a9db14 ===
+Sıkılmanın faydalı bir tarafı var. Derinleşmeyi önemsizleştirmemek şartıyla genişlememiz gerek. Birden fazla alanda uzman olmamız gerekiyor yapay zekâ çağında. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-01 10:42:30 UTC | ID: cecebe37d2906b696d1edf723a8402d29543347ede4161a37e3ecd3fb4efc1bd ===
+Kategorik önermeler hiçbir seçeneğe bağlı olmadığı için kategoriktirler. "Kategoriler arasında ilişki var." anlamında kullanıyoruz. Bir şeyi (bütün insanlar) bir şeye (ölümlüdür) yüklemliyoruz. O şeyi bir sınıfa dahil ediyoruz. Mesela bütün insanları ölümlü sınıfına dahil ediyor. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-01 21:34:57 UTC | ID: bb1acea2a65d6f9d936b86d3a30e29748a2b33c8bee19a5657f1f064a7eb4fb4 ===
+Kategorik önermenin tümel niceliği (kapsamı) öznenin tamamıyla ilgili, tikel niceliği bir kısmıyla ilgili bilgi verir. İlk örnek "Bütün (tümel) insanlar ölümlüdür", ikinci örnek "Bazı (tikel) insanlar yazardır" olabilir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-02 17:42:16 UTC | ID: c3a9a8b0e43c80288ce37728e11dc93a759c0b799022e144d93890dccc962d7e ===
+Tek bir kişiyi, nesneyi veya mekânı belirten önermeler tikel değildir. Belirli bir kişiye ait oldukları için tekil olarak kabul ediyoruz, tikel değil. Yüklem (çalışkandır) öznenin (Habil) tamamını kapsadığı için tekil önermelere de tümel önermeler gibi davranıyoruz. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-02 17:51:38 UTC | ID: 2cbe8837669ca0dc813183ca81a86c0a61ea29e83077c5508f7a7ab879d0283f ===
+Tekil önermelere tümel önermeler gibi davranmazsak çıkan sonuç geçersiz olur. Bütün insanlar ölümlüdür. Habil bir insandır. O hâlde Habil ölümlüdür. Burada Habil tikel olursa iki tikelden hiçbir sonuç çıkmayacağı için mantıksal olarak geçerli bir çıkarım yapamayız. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-02 19:26:04 UTC | ID: 3ca9037a8d29aff2a87b7bf28f2434154f73cc410d298903cfd57994d766023f ===
+Genellikle "Hangi işi yapacağım?" konusuna odaklanılıyor. Tercümanların büyük bir çoğunluğu bir gecede işsiz kaldı. Pek çok iş LLM'lere yaptırılıyor. Bence bu dönemde yatırıma daha çok önem vermek lazım. Ses miksajı vb. işlerle para kazanırız ama paramızı korumak çok daha önemli. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-02 19:35:59 UTC | ID: 35fab8b8ee68bf0e6d97fa0fe038f91be74d9c912f7e4f873d04ab58b8fab8df ===
+Yapay zekâ (özellikle mantık ilmiyle bakarsak) bağlamı ıskalamaya çok yatkın. Anlamı gerçekten bilemediği için, sentaks-semantik ayrımı, insanın mantıksal tarafını (tabiri caizse) temsil edebilir ama duygusal tarafı daima eksik kalıyor. Modelin gelişmişliğinin konuyla ilgisi yok. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-03 23:29:33 UTC | ID: c2a480904962200f1009b0b1eaf6f5d64cf1f15f13cbe3473c2ff86ccdb48ca3 ===
+Bir kategorik önermenin niceliği ya tümeldir ya da tikeldir. Niteliği ise ya olumlu ya da olumsuz olabilir. O hâlde bir kategorik önerme için yalnızca dört ihtimal söz konusu olur. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-04 13:13:59 UTC | ID: a857b331131680b0df28d91f44c8efdc5baf736efd1b5ac969aff40d600252ac ===
+Enflasyon kişiye göre değişir. Enflasyon hesaplamalarına dahil edilmeyen ama fiyatı hızla yükselen bir ürün tüketiyorsanız iç ekonominiz Türkiye ekonomisinden daha yüksek bir enflasyon oranıyla karşı karşıya kalabilir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-04 15:51:29 UTC | ID: cf7d5f7af8c9e37c6531464632ddee80ce28bd07df74971b437d8ac74216fce7 ===
+Tikel nicelikli bir kategorik önermenin niteliği ya olumludur ya da olumsuzdur. Tümel nicelikli bir kategorik önerme için de aynısı geçerlidir. Her kategorik önerme nitelik açısından ya olumlu ya da olumsuz olabilir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-04 18:01:55 UTC | ID: 8d701c55f6b9df77421f18cb14253aad1c5983a13c101c923f5df7e16bc3c6b1 ===
+Birbirinden farklı hareket eden iki varlık varsa ve bu iki varlık aynı portföy içerisinde yer alıyorsa portföyün risk seviyesi düşer. Bu aklen böyledir. Biri %1 artarken diğerinin %1 düşmesine gerek yok, çoğu kişi bu noktada yanılıyor. Önemli olan aynı yönde hareket etmemeleri. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-04 18:31:14 UTC | ID: 3281bfb784f71ef6a6a262a6b93c1eaf1cbfd27400e9695b9e985118774d8e1e ===
+Paranızın %40'ını şu varlıklara, %60'ını şu varlıklara yatırın gibi söylemler tarihsel verilere dayanıyor. O tarihle bu tarih arasında test ettik ve bu sonucu ortaya koyduk. Aklen bunların hiçbiri kesin değildir. Bu yüzden körü körüne bağlanmak yerine ihtimal olarak ele alınmalı. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-04 23:58:26 UTC | ID: 9b128bf7d6a04aa4f2780a63b6a3e044d341c3ccc76587142c3aeb91610fb75a ===
+Karşınızdaki kişinin nasıl düşündüğünü sınamak için "ya da" kullanımına bakın. Bağlama göre değişir ama üçüncü bir seçenekten söz edebilecekken seçenekleri ikiye indiriyorsa muhtemelen ilkel düşünüyordur. "Ya yatırımcı olursun ya da yazar." Her ikisi de neden olmasın? 
+
+
+
+=== KIND: 1 | DATE: 2026-10-05 17:07:56 UTC | ID: af47a5b98ccdf50a83c8a663d11d3c9146c40279abe8e5ddcbccab0388f1b83b ===
+Affirmo (evetliyorum), nego (hayırlıyorum), subject (özne) ve predicate (yüklem) kullanalım. Bütün S'ler P'dir: SaP. Hiçbir S, P değildir: SeP. Bazı S'ler P'dir: SiP. Bazı S'ler P değildir: SoP. Bunları da sırasıyla A, E, I, O şeklinde kısaltıyoruz. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-05 17:26:12 UTC | ID: a909dccef59822f3ed11f4f7caacfef0c7a23f85ab41fca668e355d74cd27b4f ===
+SaP örneği verelim. S, subject yani özne: insan. "a" affirmo yani evetleyeceğiz: Bütün S'ler P'dir. P, predicate yani yüklem: ölümlü. SaP: Bütün insanlar ölümlüdür. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-05 17:50:58 UTC | ID: 5053218944b245af230d01dc45c72dc9c4f3f255bf255daf274e19dc5036c8a9 ===
+SiP örneği: Bazı (affirmo, evetleyeceğiz ama "i" yani "Bazı S'ler P'dir." olacak) insanlar (S, subject yani özne) yazardır (P, predicate yani yüklem). SaP olsaydı "Bütün insanlar yazardır." olurdu. Burada "affirmo"nun "a"sı değil "i"si var yani "bazı" var. Bazı insanlar yazardır. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-05 18:01:42 UTC | ID: ef7b532f9d17ab30874a1f81078588e859fa14cc41862474dbf08d4d3277de04 ===
+"affirmo"nun "a"sı varsa (SaP) tümel olur. "Her" gibi. "i"si varsa (SiP) tikel olur. "Bazı" gibi. Bunlar örnek. "nego"nun "e"si varsa (SeP) tümel olur ama olumsuz. "o"su varsa (SoP) tikel olur ama gene olumsuz olur. SeP: Hiçbir kuş balık değildir. SoP: Bazı taşlar elmas değildir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-05 18:36:27 UTC | ID: eb39d5796fe7247b66602d2dcdbaf960ee1862fc618eca2bd11ff7ea646bc4d1 ===
+A: Bütün sincaplar memelidir.
+E: Hiçbir sincap kanatlı değildir.
+I: Bazı sincaplar meşe palamudu yer.
+O: Bazı sincaplar ağaçta yaşamaz. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-05 18:48:05 UTC | ID: b7def8e4e070489db8ecd4fe5ddc5a94fb4181a4c615b83d71111a431bacc004 ===
+SaP: Bütün sincaplar memelidir.
+SeP: Hiçbir sincap kanatlı değildir.
+SiP: Bazı sincaplar meşe palamudu yer.
+SoP: Bazı sincaplar ağaçta yaşamaz. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-05 19:02:13 UTC | ID: ea6bd074d8877ca6fd82fda8f0859c5f5f7b34b1e322f250fbc699cbca081702 ===
+Toplumsal güzellik algısı için mukayese şarttır. Bu çiçek neden güzel? İkinci bir çiçek olmadan güzel olabilir mi? Aslında, o anda başka bir şeyle kıyaslamasak bile haz alabiliriz. Bireysel deneyimde mukayese zorunlu değildir. İkisini birbirine karıştırmak aklen geçersizdir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-05 19:12:30 UTC | ID: 039d86a3768e383a3a54c4cc89dbe56c9df86e47241bfe67b857abdbf39e87f8 ===
+Kedi yavrusunu yemeye niyetlenince orasını burasını fareye benzetirmiş. Bağlamından koparılarak mantıksal süzgeçten geçirilen ve safsata bulunan akıl yürütmeler buna benzer. Özellikle informel mantıkta bağlam daima göz önünde bulundurulmalıdır. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-05 19:44:12 UTC | ID: 5e17d12419b48c08e12d4c7053bb71cca15d660859d439dc82d44900b2ba6775 ===
+Tümel önermelerde (modern mantıkta) zihinsel tasavvurlar söz konusu edilebilir ama tikel önermelerde sözü edilen nesneden en az bir tane bulunması gerekir. Klasik mantıkta her iki nicelikte de sözü edilen nesneden en az bir tane bulunması gerekir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-05 20:30:14 UTC | ID: fd194991ceb646a5ad1a47d2ab2b827d8c7fd90e2084eaabe6880500ead4c465 ===
+İbn Sina (Allah ondan razı olsun.) boş kümeler üzerinden çıkarım yapmayan Aristo mantığını mahiyeti ve vücudu ayırarak genişletmiştir. Sina'ya göre boş kümeler (O, elbette "boş kümeler" demiyordu, "mâdum"u kastediyorum.) zihinde kavramsal gerçekliğe sahiptir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-06 04:47:40 UTC | ID: cff1dfe30038eb4fcfa7d657a9faa37c6a4cfe1392b5d75214e6924029f06e83 ===
+“Bütün sincaplar memelidir.” önermesinin çelişiği “Bazı sincaplar memeli değildir.” önermesidir. SaP'ın (A'nın) çelişiği SoP'tur (O). 
+
+
+
+=== KIND: 1 | DATE: 2026-10-06 05:07:30 UTC | ID: 529708e239a095b8c97585e9a4afe96f82a0a53728b2da50ddf19d1d9bf66b6d ===
+"Hiçbir sincap kanatlı değildir." önermesinin çelişiği "Bazı sincaplar kanatlıdır." önermesidir. SeP'in (E'nin) çelişiği SiP'tir (I). 
+
+
+
+=== KIND: 1 | DATE: 2026-10-06 05:18:05 UTC | ID: ccd7a1558b0185be392140c448297392b8652067330486e2608afb3e11861365 ===
+“Bütün sincaplar memelidir.” önermesinin üst karşıtı "Hiçbir sincap memeli değildir." önermesidir. SaP'ın (A'nın) üst karşıtı SeP'tir (E). 
+
+
+
+=== KIND: 1 | DATE: 2026-10-06 05:29:51 UTC | ID: 05c07e297566c1095d1da4240e3f802690ea9cb34bc4b980ede93319e1e59991 ===
+"Bazı sincaplar meşe palamudu yer." önermesinin alt karşıtı "Bazı sincaplar meşe palamudu yemez." önermesidir. SiP'in (I'nın) alt karşıtı SoP'tur (O). 
+
+
+
+=== KIND: 1 | DATE: 2026-10-06 06:11:18 UTC | ID: e735d62b23847e3a213efd86201864403a6a9aba986df460e44ff852c48c7818 ===
+"Bütün sincaplar memelidir." önermesinin altığı "Bazı sincaplar memelidir." önermesidir. SaP'ın (A'nın) altığı SiP'tir (I). 
+
+
+
+=== KIND: 1 | DATE: 2026-10-06 06:31:37 UTC | ID: 46452317fc0107ba898dd61ed4172940f3c61f4d94bd29391631ad77268195fe ===
+"Hiçbir sincap kanatlı değildir." önermesinin altığı "Bazı sincaplar kanatlı değildir." önermesidir. SeP'in (E'nin) altığı SoP'tur (O). 
+
+
+
+=== KIND: 1 | DATE: 2026-10-06 07:40:54 UTC | ID: 24c35bd70233f7fe4d47ef6c4f750ea3ec58bf5c1e0bb60b06401a1ddfb77315 ===
+ 
+
+
+
+https://blossom.primal.net/d5ed06344ad4e339290d36692ec7a4dea32aaabbbbcfe325d25b2300f29eaadd.png
+
+=== KIND: 1 | DATE: 2026-10-06 09:03:02 UTC | ID: 881a4fc82310cf1e7081fcb1ca4f1be409b82662b3d515d49d1084b10e375c17 ===
+Üst karşıt ya da alt karşıt önermelerden (A, E ya da I, O) biri yanlış, biri doğru olabilir ama önermeler üst karşıtsa (A, E) her ikisi de doğru olamaz, her ikisi de yanlış olabilir. Alt karşıtsa (I, O) her ikisi de doğru olabilir, her ikisi de yanlış olamaz. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-06 12:35:37 UTC | ID: 34929421fcc38018a97be0c8df40b91922296bc679c1ef9debff310085355053 ===
+A (Her sincap konuşabilir.) yanlışsa E (Hiçbir sincap konuşamaz.) doğru olabilir. E (Hiçbir sincap memeli değildir.) yanlışsa A (Her sincap memelidir.) doğru olabilir. Hem A hem de E hiçbir zaman aynı anda doğru olamaz. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-06 14:41:23 UTC | ID: 5bd537a945eafe7cbcc9f0654cfc24559b8b3fab33af77e563f75635dc05b3ba ===
+I (Bazı sincaplar konuşabilir.) yanlışsa O (Bazı sincaplar konuşamaz.) doğru olabilir. O (Bazı sincaplar uçamaz.) yanlışsa I (Bazı sincaplar uçabilir.) doğru olabilir. Hem I hem de O hiçbir zaman aynı anda yanlış olamaz. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-06 15:06:53 UTC | ID: 352d3bf3d8313418c5c65bdf9bce9612a1b90f69b7daeae14e6920c72fe3e0a8 ===
+ 
+
+
+
+https://blossom.primal.net/b7d6316f1b31a146a81f8b104eaccde809ba029f81ca2fdb847ec8a56d277c44.png
+
+=== KIND: 1 | DATE: 2026-10-06 19:05:22 UTC | ID: 740af85c791b84d28f218669190d41d388fc5d499386a864e2594211f05574c4 ===
+"Her dağ sıçanı memelidir." önermesi doğruysa "Hiçbir dağ sıçanı memeli değildir." önermesi kaçınılmaz olarak yanlış olur. Üst karşıt olan A ve E (yani SaP ve SeP) aynı anda doğru olamaz. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-06 19:13:57 UTC | ID: 5665e04b326f9ff28f6d3020bcfbd9b500ad54dbcbcb5e1736926133f6007226 ===
+Alt karşıt olan SiP ve SoP (I ve O) aynı anda yanlış olamaz. O hâlde “Bazı zebralar altı ayaklıdır.” önermesi yanlışsa “Bazı zebralar altı ayaklı değildir.” önermesi kaçınılmaz olarak doğrudur. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-06 22:20:37 UTC | ID: fc75ae3cceef92d7b329b320ae6f32e3b3b4970a59ee480dde843fde8c1416a7 ===
+Zenginliğiyle bağıran (servet öyle ki fısıldar), kendiyle başkasını mukayese eden (güzellik öyle ki mukayese gerektirmez), cehli seven (iyilik öyle ki yapmamakla şerri açık eder) tek bir kişi yoktur ki söylenileni anlasın. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-07 16:12:31 UTC | ID: 97c57d92c2ac21ccaad386e74f350264d6959a78c71f54b75c4012fe4bab0976 ===
+Çelişik önermeler aynı anda doğru olamaz. A (yani SaP) doğruysa O (SoP) yanlıştır, O doğruysa A yanlıştır. Aynı şekilde: E (SeP) doğruysa I (SiP) yanlıştır, I doğruysa E... 
+
+
+
+=== KIND: 1 | DATE: 2026-10-07 17:34:41 UTC | ID: 956df0c86e519e7e75a6992d26b61b9d3db6c0eb7ff7fb7454b78ba693721822 ===
+"Bütün yazarlar kalem kullanır." önermesinin (tümel olumlu, yani SaP) çelişiği şu: "Bazı yazarlar kalem kullanmaz." Kural neydi? Biri yanlışsa diğeri mutlaka doğrudur. Öyleyse ya A doğrudur ya da O. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-07 18:02:40 UTC | ID: 5918ff582478c10001ba929044974735bd7d23d983b2cdbab55559669a24732a ===
+"Bazı insanlar hızlı koşar." önermesini ele alalım. Tikel olumlu bir önerme, SiP ya da I. Bu önermenin doğru olduğunu kabul edelim. SiP'in çelişiği SeP yani E. O zaman "Hiçbir insan hızlı koşmaz." önermesi kesinlikle yanlıştır. E doğru olsaydı I yanlış diyecektik. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-07 21:06:01 UTC | ID: 5419f619cc8f8dde3c47043438f5ed1e6e2c38400d146a8683ec9e6a6d2b8de4 ===
+Tümel önermeler (A ve E) doğruysa altıkları (I ve O) da doğrudur ama yanlışsa altıkları da yanlış olmak zorunda değildir. Tikel önermeler (I ve O) doğru olduğu hâlde tümelleri (A ve E) doğru olmayabilir ama yanlışsa tümelleri de mutlaka yanlıştır. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-07 21:28:11 UTC | ID: 929575c72254716d0a46e54f220d30f5e9fc4f21ad4c784fa327a98bbad9d9f2 ===
+ 
+
+
+
+https://blossom.primal.net/4d6ac4d34da742ffe613058c9e4fb9a72ee679e867e5d6a73f5e58bf279f9a29.png
+
+=== KIND: 1 | DATE: 2026-10-07 22:49:30 UTC | ID: 4a0f31e6f411797052ad9f040b384a41fded93e18183f0cf408f45e77ea016e7 ===
+Karşıtlık Karesi - Opposition Square 
+
+
+
+https://blossom.primal.net/82672ac244811f016be08a20131b2a4ea087744d8caf40dad21dc8395ba73146.png
+
+=== KIND: 1 | DATE: 2026-10-08 01:53:07 UTC | ID: 25fd07b79ce8c0907c678bc086baaace680878b47841399637d11ad2d406c757 ===
+"Affediyor" şeklinde aklınızda tutabilirsiniz. A, tümel olumlu; E, tümel olumsuz; I, tikel olumlu; O, tikel olumsuz. SaP, SeP, SiP, SoP. (A)ff(E)d(I)y(O)r. Af-fe-di-yor. A-E-I-O. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-08 14:33:46 UTC | ID: ebb499f76060909dd5430b142a03a3447571c31c8cc7139167a3c2b40e921dad ===
+A (SaP) doğru ise E (SeP) yanlış olur. E, A'nın karşıtı (contrary) konumundadır. A, tümel olumlu; E, tümel olumsuzdur. Mesela, "Tüm insanlar memelidir." önermesi A; "Hiçbir insan memeli değildir." önermesi E ise A doğru, E kaçınılmaz olarak yanlıştır. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-08 15:59:15 UTC | ID: f8c6643a07ab6339aa73e9ea4d15a731614ccbef3c2279a5682fd0ff2d681cf9 ===
+A (SaP) doğruysa I (SiP) da doğrudur. Örneğin, "Tüm timsahlar sevimlidir." önermesi doğruysa "Bazı timsahlar sevimlidir." önermesi de kaçınılmaz olarak doğrudur. Neden? Çünkü A'nın altığı I'dır. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-08 16:22:21 UTC | ID: 7cbda4e85fd6358f02cc11babc99ef0ae5235bd0ef7bf7f505718fbc036e7254 ===
+A (SaP) doğru ise O (SoP) kesinlikle yanlıştır. Neden? Çünkü A'nın çelişiği O'dur. Örneğin, "Tüm kitaplar sarıdır." önermesi doğruysa "Bazı kitaplar sarı değildir." önermesi kaçınılmaz olarak yanlıştır. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-08 16:46:20 UTC | ID: 14106652b8d9fc4345391dedba61c8c196536cf627973cebf8e4e24193504188 ===
+A (SaP) yanlışsa E (SeP) belirsiz olur. E ve A aynı anda doğru olamaz ama aynı anda yanlış olabilirler. Biri doğruyken diğeri yanlış olabilir. Mesela A için "Her insan gözlüklüdür", E için "Hiçbir insan gözlüklü değildir" önermeleri örnek verilebilir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-08 17:02:05 UTC | ID: 16f7c075fe3bce588838bef7592a96d0ede8271320a3654a3281b9d89a181aee ===
+A (SaP) yanlışsa I (SiP) belirsizdir. A'nın altığı I'dır; yani A doğruysa I da doğrudur ama bu I'yı belirsiz olmaktan çıkarmaz. I yanlışsa A da yanlıştır ama bu da I'yı belirsiz olmaktan çıkarmaz. A yanlışsa I doğru da olabilir yanlış da olabilir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-08 17:12:41 UTC | ID: d27e03d386dcb90ee5b18b07895cc2b1cc371cf5ccf2a597672bb5bf06d67be4 ===
+A (SaP) yanlışsa O (SoP) mutlaka doğrudur. Çünkü O, A'nın çelişiğidir. Tümel olumlu yanlışsa tikel olumsuz otomatik olarak doğru olur. Mesela, "Tüm tavşanlar dört kulaklıdır." önermesi yanlışsa "Bazı tavşanlar dört kulaklı değildir." önermesi otomatik olarak doğrudur. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-08 17:36:00 UTC | ID: baa1a8679aecbda548c1e2a46e6e91fbe3eb74415b2cec79f0a5abd4f76795ad ===
+E (SeP) doğruysa A (SaP) yanlıştır. A, E'nin karşıtıdır. Aynı anda yanlış olabilirler ama aynı anda doğru olamazlar. Tümel olumsuz "Hiçbir eşek yoga yapamaz" önermesi doğruysa tümel olumlu "Bütün eşekler yoga yapabilir" önermesi yanlış olur. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-08 21:50:59 UTC | ID: bc5e33966132ce394a3707bf6d5c1ec24901cffe68897c4e99818b72a485e1fb ===
+E (SeP) doğruysa I (SiP) kesinlikle yanlıştır. Çünkü I ve E çelişiktir. Tümel olumsuz (E): "Hiçbir insan dört elli değildir." O hâlde tikel olumlu (I) "Bazı insanlar dört ellidir" önermesi kesinlikle yanlıştır. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-08 22:07:02 UTC | ID: bdb7c4a9c224f06bd8f27529ca750492e452786389842498e2a2c34636032311 ===
+Tümel olumsuz E (SeP) doğruysa tikel olumsuz O (SoP) da doğrudur. Çünkü O, E'nin altığıdır. E doğruysa O da doğrudur ve O yanlışsa E de yanlıştır. "Hiçbir insan kanatlı değildir" tümel olumsuz önermesi ile "Bazı insanlar kanatlı değildir" tikel olumsuz önermesi örnek verilebilir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-08 22:17:13 UTC | ID: 99ce8c6c5174bd9fc73d18bca645f6519b8e2764c718a667143c7a3dd093015f ===
+E (SeP) yanlışsa karşıtı A (SaP) doğru da olabilir yanlış da olabilir. Çelişiği I (SiP) doğru olur. Altığı O (SoP) doğru da olabilir yanlış da olabilir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-08 22:31:33 UTC | ID: 419cf27d0f02dc44f6daeab8d0f1210e912c57800a699b85215c2fd80dd29f7a ===
+Tikel olumlu I (SiP) doğruysa tümel olumlu A (SaP) doğru da olabilir yanlış da olabilir. Çelişiği tümel olumsuz E (SeP) kesinlikle yanlıştır. Alt karşıtı tikel olumsuz O (SoP) doğru da olabilir yanlış da olabilir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-08 22:40:45 UTC | ID: f6b381ddb17080d6cbc60f39f18be46ee4301ecd3e5fcad996042159debdec66 ===
+Tikel olumlu I (SiP) yanlışsa tümel olumlu A (SaP) da yanlıştır. Çelişiği tümel olumsuz E (SeP) kesinlikle doğrudur. Alt karşıtı tikel olumsuz O (SoP) kesinlikle doğrudur. Çünkü I ve O aynı anda yanlış olamaz. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-08 22:48:54 UTC | ID: 8fcd901c86ddc10b35bcf46730d27edd36bbb5cc1c0cb9ba9f7fc43aa3279970 ===
+Tikel olumsuz O (SoP) doğruysa çelişiği tümel olumlu A (SaP) kesinlikle yanlıştır. Tümel olumsuz E (SeP) doğru da olabilir yanlış da olabilir. Alt karşıtı tikel olumlu I (SiP) doğru da olabilir yanlış da olabilir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-08 23:12:31 UTC | ID: ce923dd6d49823fde7b44cc4a57e5530bdda2ab56895676c21be41799a460de1 ===
+Tikel olumsuz O (SoP) yanlışsa çelişiği tümel olumlu A (SaP) kesinlikle doğrudur. Tümel olumsuz E (SeP) yanlıştır. Alt karşıtı tikel olumlu I (SiP) doğrudur. Çünkü I ve O aynı anda yanlış olamaz. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-08 23:21:53 UTC | ID: 3a3e0ff49d8704710bc6f31a19911c7f960db6d7996c9f7b9235ccc9bab540ec ===
+Karşıtlık Karesi Doğruluk Tablosu 
+
+
+
+https://blossom.primal.net/3d05c11951f450bf4239fe83489888d0da08d414f6f3f467f4573cb973ed776c.png
+
+=== KIND: 1 | DATE: 2026-10-09 00:20:11 UTC | ID: 84f647ecb7ab11e6f463d0bd62038f8ca41a691a32d817a758554666633bf52e ===
+Karşıtlık Karesi (Opposition Square) ve Doğruluk Tablosu https://blossom.primal.net/f228a3b744ef96ea69e27eee568edef51b33d7eefde9e5c5c55b201e745f36e0.png  https://blossom.primal.net/2ecadda842f0ab34289526eddc4a3625b96af3f8cf020eda654269857ff74544.pdf 
+
+=== KIND: 1 | DATE: 2026-10-09 06:27:49 UTC | ID: 7114208b2cdfd7019def42c812d7673604d43b9b9da497eac774692806cd534c ===
+Kategorik ve modal önermeler birbirinden ayrılır. Modal önermeler, kategorik önermeler gibi bir kesinlik taşıyabilirler. O zaman aralarındaki fark nedir? Modal önermeler daha kapsayıcıdır. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-09 07:37:56 UTC | ID: 84ad44b610704f7ad1b6965fec14c8feb6bfbc44e0aea6889eb4ed0e5c76d3d0 ===
+"Su kaynarsa çay demlenir." Burada iki önermeyi "ise" şart eki ile birbirine bağlıyoruz. Birinci: "Su kaynar." İkinci: "Çay demlenir." Bu gibi önermelere hipotetik önermeler denir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-09 08:02:47 UTC | ID: ab9827a123fbcfc0a4a09ed0ca14ebf03906227e1fabba4ba01c5d3838a10de9 ===
+"Beni seviyorsan ararsın." Bu bir hipotetik önerme. Burada iki önerme var aslında. Birinci: "Beni seviyorsun." İkinci: "Beni ararsın." Şart eki olan "ise"yi kullanarak ikisini birbirine bağlıyoruz: "Beni seviyorsan ararsın." 
+
+
+
+=== KIND: 1 | DATE: 2026-10-09 09:07:26 UTC | ID: 85078a5cb327b6662c4adb18ed9c84b96e7931ec585ccedced713df709e1124b ===
+Hipotetik önermeler sadece A (beni), B (seviyor) ise A (beni), C (ararsın) yani A, B ise A, C'dir şeklinde olmak zorunda değil. A, B ise C, D'dir şeklinde de olabilir: "Beni seviyorsan telefonum çalar." 
+
+
+
+=== KIND: 1 | DATE: 2026-10-09 10:29:34 UTC | ID: 671e1c6b099a771f41e39a3e1edc71b276f01d7d808a43986cb7cf91a90c6acb ===
+"Beni seviyorsan telefonum çalar" önermesini şu şekilde yazabiliriz: A, B ise C, D'dir. C, D gerçekleşirse A, B'nin gerçekleşeceğini beklemek safsata olur ama A, B gerçekleşirse C, D'nin gerçekleşmesi gerekir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-09 11:15:18 UTC | ID: 8ce3fe212db091ced50677cbcdfbffdf0fdfbb37658d4759a4b00046c9c7341c ===
+Klasik mantıkta çıkarımların temelini kıyas oluşturur. Modern mantıkta matematiksel formlar temel alınır. İkisi birbirini dışlamıyor ama anlayış farkı bu yüzden oluşuyor. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-09 12:05:11 UTC | ID: 06f45ac90d2de7563375c8c17e1cfcf8c0eca9a0bbcca20e6ab821e9123c2635 ===
+"Klasik mantıkta çıkarımların temelini kıyas oluşturur" derken kastettiğim şey doğru kabul edilen iki öncülden yola çıkarak bir sonuca varmak. Bu sonuç zorunlu bir sonuç. Bu sürece de (bu sonuca varma sürecine) akıl yürütme diyoruz. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-09 15:39:08 UTC | ID: bc125872fdeccf0b07687658d3028a204e00eb8322bb79357d46636e4e7a6518 ===
+Her önerme (proposition) bir cümledir ama her cümle (sentence) bir önerme değildir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-09 16:36:33 UTC | ID: eb0bf7b20bfde4d2b0d8a3960434a5f23ad7a995700dec268fc0778c9df43830 ===
+"Kar beyazdır.", "Snow is white." vb. cümleleri hangi dilde kurarsak kuralım anlamı değişmez. Hepsi karın beyaz olduğu yargısını ifade eder. İşte önerme budur. Cümleye önerme demiyoruz, oradaki yargıyı önerme olarak adlandırıyoruz. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-09 16:47:33 UTC | ID: 195a0101f8c482d5fc2fdac00d977b88f62f0e7c375845fb04d4f88550bec215 ===
+Her yargı bir önerme olmak zorunda değil. Mesela "Saatim nasıl?" diye sorsam ve siz de "Güzel." yanıtını verseniz bu bir önerme olur mu? "Güzel" bir önerme değil ama yargı bildiriyor. Mesele, önermenin doğruluk değerinin olması. Doğruluk değeri yoksa ortada bir önerme yoktur. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-09 18:02:16 UTC | ID: a785839bcf6cdc510669ca8d76b5daa10ae3b9840c5b99e2fccf8dcd3f012259 ===
+Mantığa neden çıkarımlar mantığı denmiş? "Klasik mantıkta çıkarımların temelini kıyas oluşturur." demiştim. Nedeni bu aslında. Çıkarımlarla ilgileniyor. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-09 18:50:45 UTC | ID: 65a1dcadffe86ddce03e86ac97a731617f26e8bf0c5fcfbbb2acdee68cd5b574 ===
+Önermeden yeni bir önerme elde etme işlemi çıkarımdır. Mantığın ana konusu, temel ilgi alanı çıkarımlardır. Çıkarımları denetlemek, yollarını saptamaktır. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-09 19:12:20 UTC | ID: 7f37f4d53a0ff3b001b5b11d9252b25846bf8511b6d78bd56ff375056e7c0dda ===
+Tek bir önermeye dayanarak çıkarım yaparsak "doğrudan", birden fazlaysa "dolaylı çıkarım" diyoruz. Doğrudan: Her insan canlıdır. O hâlde bazı insanlar canlıdır. Dolaylı: Tüm insanlar ölümlüdür. Habil bir insandır. O hâlde Habil ölümlüdür. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-10 01:02:45 UTC | ID: c5b0b028736d4de2c1a0f5739ec6c801e1f8b76793e977c9cb72aa8d1009d423 ===
+Kıyasta ("silojizm" de denir) iki önerme ve bir sonuç vardır. Tüm maymunlar muz yer (bu, birinci önerme). Zıpzıp bir maymundur (bu, ikincisi). O hâlde Zıpzıp muz yer (bu, sonuç). 
+
+
+
+=== KIND: 1 | DATE: 2026-10-10 01:23:06 UTC | ID: b24fadf34fd529b326b64e9bae1b965b672d325365ec75bcca1bfc96bbff467d ===
+Önerme sayısı ikiden fazlaysa (mesela: Habil bir insandır. Tüm insanlar bıyıklıdır. Tüm bıyıklılar erdemlidir. O hâlde Habil erdemlidir.) buna zincirleme kıyas (veya çıkarım) diyoruz. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-10 02:28:08 UTC | ID: 7724aa169717d1c6aeffe9b187c4d8efb89f14eb86b502a550d1c65109929426 ===
+Mantık ancak Allah yolunda kullanılırsa ilim olur. Eğer Allah yolunda kullanılmazsa gerçek bir ilimden söz edilemez. Böyle bir ilim aklen dolu görülse de ruhen boştur ve ancak Allah'ı yüceltmek uğruna kullanılarak doldurulabilir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-10 03:10:30 UTC | ID: c9384affd85ee5a5ca6abe67e1b118da15a36e9751cd16d198d709a1cb5a96c9 ===
+“Dili kalbe indirdim.” Ne güzel söz, öyle değil mi? Ya kalbin dili? Dil, kalbe iner mi hiç? Kalp konuşur mu? O konuşursa şu yarım aklım susar mı? 
+
+
+
+=== KIND: 1 | DATE: 2026-10-10 03:30:22 UTC | ID: 9b19d7c18e8f9eb15b103098a3fd5c2845d39e104013ea361179290c81e43945 ===
+"Hiçbir insan kanatlı değildir.", "Hiçbir kanatlı insan değildir." Bu bir doğrudan çıkarım. İlk önermeye eş değer bir önerme çıkardık. İki önerme de aynı doğruluk değerine sahip. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-10 06:11:04 UTC | ID: ecc5f969995fca2034bda1bd2127cc80e7030c4fe08cdeb8f4900fa01f65d1a1 ===
+SaP'ın döndürmesi (conversion) PiS'tir. SeP'in PeS'tir, SiP'in PiS'tir. SoP döndürülmez. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-10 13:17:33 UTC | ID: d29a5c4878f649fbe9b6693a1d851cb75ddb318cb35f079c31ffa455c087d074 ===
+SaP (A, tümel olumlu) bir önermenin öznesini (S) ve yüklemini (P) niteliği (olumlu ya da olumsuz) değişmeden yer değiştirelim. Yani döndürme (conversion) işlemi yaparak PiS elde edelim ve niceliğini (tümelden tikele) değiştirelim. Tüm kediler hayvandır. Bazı hayvanlar kedidir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-10 15:39:02 UTC | ID: bbb1032634362bb8e9afbad29642f71daf71adfcbf1bec577262a1991e689633 ===
+"Tüm insanlar ölümlüdür" demek, "Tüm ölümlüler insandır" demek olmadığı için SaP'ı döndürdüğümüzde tümelden tikele geçiyoruz. "Tüm insanlar" "ölümlüdür"e dağıtılmış durumda ama tam tersi geçerli değil. Tümel olumluyu tümel olarak döndürmek mantık hatasıdır. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-10 16:00:21 UTC | ID: 7e81bcffcb3e4af6b74ae8755a49767c8455ebba77ca80324904ef265a994c6d ===
+Tümel olumluyu tümel olarak döndürmek mantık hatası olmasaydı "Tüm insanlar ölümlüdür." önermesini "Her ölümlü insandır." olarak döndürmek meşru olurdu. Halbuki çamur zıpzıpı, fil kulaklı ahtapot, zürafa biti ve yağmur kurbağası da ölümlü ama hiçbiri insan değil. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-11 01:33:07 UTC | ID: 3f1f636818deca33930287a150219bf18eddccb19ad804fdf2702d2a4fef739b ===
+"Hiçbir S, P değildir." Yani SeP'i döndürürsek PeS, "Hiçbir P, S değildir." olur. S ve P'yi birer küme olarak düşünürsek "Hiçbir S yoktur ki P olsun" sonucuna varırız. Tersi de geçerlidir. Hiçbir balık futbol oynamaz. Hiçbir futbol oynayan, balık değildir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-11 01:40:13 UTC | ID: 42e37ac542960ac897fa68cfb8606724f1c6be8069a17ae1d1f336ddb723fe57 ===
+O hâlde SaP'a döndürme (conversion) işlemi uygularsak PiS olur. Örneği tekrar edelim: Tüm kediler hayvandır. Bazı hayvanlar kedidir. SeP'i döndürürsek de PeS olur: Hiçbir timsah basketbol oynamaz. Hiçbir basketbol oynayan, timsah değildir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-11 04:59:17 UTC | ID: 3277d6b0abd8ec9a0c9188c1d6514fb20892c7f3179fb0a64a48d6d4e5c22c91 ===
+SiP'i düz döndürüp PiS yapalım. "Bazı insanlar iki ayaklıdır." "Bazı iki ayaklılar insandır." Neden "her" kullanmadık? Bunda da (tümel olumluyu tümel olarak döndüremediğimiz gibi) tümel döndürme yapamıyoruz. "Her iki ayaklı insandır." diyemeyiz. Kuşlar da penguenler de... 
+
+
+
+=== KIND: 1 | DATE: 2026-10-11 05:09:28 UTC | ID: 0b975fdbf3052e45f58322ebbf2794a06bfd38548174fbee2ff3412f9d6733e0 ===
+Tümel olumlu da (SaP, A) tikel olumlu da (SiP, I) tümel olarak döndürülemez. I, A'nın altığıdır. A doğruysa I da doğrudur, I yanlışsa A da yanlıştır. İkisinin de döndürmesi (conversion) PiS'tir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-11 06:24:17 UTC | ID: 6d44a2b54f787fc991bf6032d68ae5ff2a6bdf7178959e4e249f3d2dc7a74ac0 ===
+Karşıtlık Karesi - Karşıtlık Karesi Doğruluk Tablosu - Döndürme (Conversion) - Döndürme Örnekleri https://blossom.primal.net/dac0f91949efbafc7bb4c6777f7fb93f06204fcc74566487248ee660b9a998f7.png  https://blossom.primal.net/af8fbca423e8ef1540e3ba0039fb5d8c30086e1b013bd3a4e3c7a6009d61201b.pdf 
+
+=== KIND: 1 | DATE: 2026-10-11 06:50:08 UTC | ID: 211a6c8e1d9130f367f634952f373c0b23fdbc1819e37378de28f000369b7582 ===
+PDF dosyasını internet siteme yükledim: https://habilozdemir.com  
+
+nostr:nevent1qqsx639zk48hsl7fjxlkqvkk3tjl72ntmach39v7fcjf70fdc7n54sqzyrzkflynxf3vg4qjh8653l9w97qsa3v0ay4zgxlc6ls4qwjxmh9qcqcyqqqqqqg80dk84
+
+=== KIND: 1 | DATE: 2026-10-11 09:07:44 UTC | ID: 41cbe6409439d6a8e2f93e4e75f9d091f6ca0fa840e9dbc405cf332ad0fdc5a1 ===
+SoP'u döndürürsek (conversion) işin içinden çıkılmaz bir hâl alıyor. Bu yüzden döndürmüyoruz. Mesela, "Bazı hayvanlar köpek değildir." "Bazı köpekler hayvan değildir." Saçma sapan bir önerme çıktı. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-12 02:47:04 UTC | ID: 5351054c353095042455e22403f6204b50bc122e163212da3a961b53ef32eae6 ===
+İnsan, bazen vaktiyle rahatlıkla yapabildiği bir şeyi tekrar yapamıyor. Aklıma "Eser sanatçıdan bağımsız mıdır?" sorusu geldi.
+
+Nice isim var ki harika işlere imza atmışlar. Benim çocukluğum hayran olmakla geçti. Bir onun gibi oldum bir bunun gibi.
+
+Eserleri yaratıcısından (mümkün olduğunca) ayırmak gerekiyor. Nice sanatkârın tek bir eser vermediğini, nice iğrenç insanın âşık olunası eserlere imza attığını gördüm.
+
+Sahi, Allah kime nasip eder ilmi? Yanılıyor olabilir miyim? Güzel olmayana güzel ilim verilir mi?
+
+Bana vermeyen Rab, hak ettiğimi neden düşündürtür? 
+
+
+
+=== KIND: 1 | DATE: 2026-10-12 08:10:45 UTC | ID: e4b9923c14959dc455fcd90d7e878044f0906b43cc8b4d9420ad6b1d8630cdba ===
+E ve I önermelerinin döndürülmesine "basit döndürme" adını veriyoruz. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-12 09:02:02 UTC | ID: 1d4b2054ed6d606834020c3d4790267ab94f89447f0c25d50e1be248be4c3c2f ===
+Gaipten sesler duymaya başladım. “E ve I önermelerinin döndürülmesine ‘basit döndürme’ adını veriyoruz. A'ya neden bu adı vermiyoruz?” diye soruyorlar. Ben “SoP'un döndürmesi olmaz.” dedim ama konunun bununla ilgisi yokmuş. Meğer A'nın niceliği değişiyormuş. Döndürmeden önce tümelken döndürdükten sonra tikel oluyormuş. Niceliği değişene “basit döndürme” denmez imiş. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-12 09:23:45 UTC | ID: dd56e04630c4f689d9c4c60eff84d5f169c6602d1f9c26d745c99129ed4b762a ===
+A’yı tümel olarak döndürseydik doğruluk değeri değişirdi. “Tüm insanlar ölümlüdür.” deseydik “Tüm ölümlüler insandır.” demek zorunda kalırdık. İlk önerme doğruyken ikincisi neden yanlış? Öyle ki insandan başka ölümlüler vardır. Atlar, kuşlar, inekler, öküzler ölümlüdür. O hâlde “Bazı ölümlüler insandır.” demek zorundayız. Bu yüzdendir ki SaP döndürülünce PiS olur. Bu yüzdendir ki dönen A, I oluyor. A’nın döndürülmesine arızi döndürme denir. Bu yüzdendir ki basit döndürme değildir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-12 18:00:52 UTC | ID: 8670b4bab71d0290a9e6dfdd685a51acbee2d2d2e212117e13eb36ced33767e5 ===
+A dışındaki iki kategorik önerme türünde de (E, I) iki kez döndürme yaparsak ilk hâline geri gelir. Sağlamasını yapalım. Önce E (SeP) ile başlayalım: “Hiçbir kuş sürüngen değildir.” Döndürelim (Gene E olacak ama PeS formunda): “Hiçbir sürüngen kuş değildir.” Şimdi tekrar döndürelim: “Hiçbir kuş sürüngen değildir.” Bakın, ilk hâle geri döndü. E ile başladık ve elimizde gene E (SeP) var. Aynı şeyi SiP için de yapalım. Mesela, “Bazı insanlar basketbolcudur.” Örneğimiz bu olsun. Döndürelim: “Bazı basketbolcular insandır.” SiP, PiS oldu. Şimdi tekrar döndürelim: “Bazı insanlar basketbolcudur.” İlk forma (I, SiP) geri döndük. İşte, A için bu durum söz konusu değil. A, iki kere döndürülerek ilk hâline (SaP) gelmez. Mesela, “Bütün insanlar ölümlüdür.” Bu, A. Döndürelim: “Bazı ölümlüler insandır.” A iken I oldu. SaP idi, artık PiS. Şimdi tekrar döndürelim: “Bazı insanlar ölümlüdür.” Bakın, I oldu. SaP olması gerekirken SiP oldu. A; sınırlı döndürme söz konusu olduğu için arızi olarak döndürülür. Bu yüzdendir ki ilk hâle hiçbir zaman geri dönemiyoruz.
+
+=== KIND: 1 | DATE: 2026-10-12 20:20:45 UTC | ID: 8fbd2f326049b473fa1b3199237c6fe9f5fd99f4f494d88e26f3f5837cc91d2d ===
+Döndürme (Conversion)
+
+SaP - PiS
+
+SeP - PeS
+
+SiP - PiS
+
+SoP - Döndürülmez 
+
+
+
+=== KIND: 1 | DATE: 2026-10-12 21:47:54 UTC | ID: 4fc1723664b6287b6e44ce0ed37dd027c89cabe28743bb646e921041961c7531 ===
+Tersine döndürmede (obversion) özne (S, subject) ve yüklemin (P, predicate) yeri değiştirilmez. Önermenin niteliği (olumlu mu olumsuz mu olduğu) değişir ve yüklem değillenir.
+ 
+
+
+
+=== KIND: 1 | DATE: 2026-10-13 01:21:10 UTC | ID: 5e41a25ab7113a9bfaa7a04fda3c47893e109485645e788dfcc5f9385fbba6ef ===
+Önermenin doğruluk değeri ne olursa olsun ona eş değer ters (obversion) bir önerme oluşturabiliriz. SaP ise SeP’; SeP ise SaP’; SiP ise SoP’; SoP ise SiP’ elde ederiz. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-13 04:28:22 UTC | ID: 9270463b94b9c3e58bae24ed1583cd377eaee4280d05520f9207fcf3152e6edc ===
+Bazen şöyle bir bakıyorsunuz, “Ben henüz 40. sayfadayım, önümde yüzlerce sayfa var.” diyorsunuz.
+
+Üstüne üstlük bir kez daha okumanız gerekiyordur kitabı, hani iyice pekişsin diye…
+
+Böyle zamanlarda geç kaldığımı hissediyorum. Nereden baksan iki yıl. İki yıl sonra kitap bitmiş ve baştan sona bir kez daha okunmuş olacak.
+
+Millet durur mu hiç? O süre zarfında nice şeyler öğrenmişlerdir, ben tek kitapla cebelleşirken alıp başlarını gitmişlerdir.
+
+Özellikle mantık öğrenme serüvenimde bu hissi iliklerime kadar hissettim. Millet teknoloji, yeni iş fikirleri, yemekler, gezilecek yerler filan derken dünyanın altını üstüne getirmişti.
+
+Bu süreçte ben ne yapmıştım? Hiç işte, bir odaya kapanıp mantıkla cebelleştim. Ellerimle tuğlalarını ördüm kendi hapishanemin.
+
+Şimdi dönüp bakalım, ne kaybettiğime bir bakalım ki okura faydası olsun. Gezmedim, gitmek istediğim restoranlar vardı gitmedim, okumak istediğim kitaplar vardı okumadım, saat hobime bile yeteri kadar vakit ayıramadım. Mantıkçı ne yapar diye düşünüp durdum.
+
+Anlayacağın, mantık öğrenmeye koyuldum. Geçinmek için çalışmak dışında mantıktan başka hiçbir şey yapmadım. İşte, kaybettiklerim bunlar. Şimdi, beklenen kısma gelelim mi?
+
+Koltuğuma yerleşmiş vaziyette bu yazıyı yazıyorum. Artık, kaybettiğim her şeyi yerine koyabilecek vaktim de var imkânım da. Ben eski ben miyim?
+
+Gezip eğlenmedim belki ama bir konuda derinleştim. Fikir sahibi oldum. Onunla o denli yakınlaştım ki baktığım her yerde görür oldum.
+
+Şimdi dönüp bakınca varsın olsun gezmemiş olayım. İlim öğrenmenin başı sancı, ilgi ister; ondan başkasına kör ol ister.
+
+Tüm bunları düşününce sabretmeye değmez mi? Kesinlikle değer. Artık televizyon izlerken bile bir mantık metnini okuyup anlayabiliyorum.
+
+Ben onu anlamak için dilimi susturdum, gözlerimi yalnız ona çevirdim. Sustu ama artık sadece bana konuşur oldu.
+
+İşte bu yüzdendir ki güzel dostum, önündeki sayfalara bakıp dertlenme.
+
+Sen derinleşmeye bak. Zamanla en zor olan kolay gelir. Nice kolaylık için bunca zorluk çekmeye değmez mi?
+
+=== KIND: 1 | DATE: 2026-10-13 05:52:59 UTC | ID: 71bb95a6838feb3be36ab1288baa4eeb616cb51743b26c3b5296f69e2a7bd8a9 ===
+Bir şey ya kendisidir ya da kendisinin değilidir. Yani ya A ya da A’ olabilir. (’) sembolü değillemeyi gösteriyor. A ve A’nın değili (eş deyişle, A olmayan) dışında üçüncü bir seçenek olanaksızdır. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-13 16:46:32 UTC | ID: 5d59cd308fd2fa8af340a05b20cf7cf9e6fd8468d60b8d603fc727ac12300599 ===
+“Bütün insanlar ölümlüdür.” demek iki küme oluşturmak demektir: “ölümlüdür” kümesi ve “ölümlü değildir” kümesi. İnsanlar “ölümlüdür” kümesinde yer alıyor. O hâlde diğer kümede tek bir insan bile bulunamaz. İnsan ya ölümlüdür ya da ölümlü değildir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-13 20:31:09 UTC | ID: 33805eab7ace6053fde403f9ad965debc3c19c9f952c5c8c9017bcecd20354cb ===
+“Bütün balıklar omurgalıdır.” tümel olumlu önermesinin tersine döndürülmesi ile (obversion) elde edilmiş “Hiçbir balık omurgalı olmayan değildir.” (SeP’) önermesini döndürürsek (conversion) P'eS olur: “Hiçbir omurgalı olmayan balık değildir.”
+
+
+=== KIND: 1 | DATE: 2026-10-13 20:50:36 UTC | ID: d308fc50a22d29362f99403849bfe7a1192ef11f3cef7b057b5d8d966a25075c ===
+SaP (tümel olumlu, A) tersine döndürülünce (obversion) SeP’ oluyor, SeP’ döndürülünce (conversion) P’eS oluyorsa P’eS önermesi SaP (ilk durumdaki önerme) önermesine denk ama ondan farklı bir önermeyse tersine döndürme ve döndürme yapılarak doğruluk değeri korunmuş yeni bir önerme oluşturulabilir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-13 23:56:55 UTC | ID: dcc91708f37c9cee2d7737a0260834775187ee364aaf1d2faf98777c5cf6813a ===
+“Bütün balıklar omurgalıdır.” Bu SaP, yani tümel olumlu (A) bir önerme. A (SaP) tersine döndürülürse E (SeP’) olur: “Hiçbir balık omurgalı olmayan değildir.” 
+
+
+
+=== KIND: 1 | DATE: 2026-10-14 00:18:50 UTC | ID: 78921b1fe1a141a33b96364b7d15d298824ecbd0a1a3c2c9892d90028bd14939 ===
+A (SaP) tersine döndürülürse E (SeP’) olur: “Tüm insanlar ölümlüdür.” ise “Hiçbir insan ölümsüz değildir.”
+
+=== KIND: 1 | DATE: 2026-10-14 00:18:57 UTC | ID: 2395dc304a17609223c517ab647f65263a6658e926e11375cd7eeedd1f14515c ===
+E (SeP) tersine döndürülürse A (SaP’) olur: “Hiçbir insan kanatlı değildir.” ise “Bütün insanlar kanatsızdır.”
+
+=== KIND: 1 | DATE: 2026-10-14 00:19:04 UTC | ID: 9b18b7f5573d8f48171d7e982ed7fe2f6fa20ba957d19a658929114e7466c8a8 ===
+I (SiP) tersine döndürülürse O (SoP’) olur: “Bazı insanlar yeteneklidir.” ise “Bazı insanlar yeteneksiz değildir.”
+
+=== KIND: 1 | DATE: 2026-10-14 00:19:10 UTC | ID: 21478220a354af50a90aaff9984611f60e0b6bc4bd4f3e54949be567353125c6 ===
+O (SoP) tersine döndürülürse I (SiP’) olur: “Bazı kuşlar tüylü değildir.” ise “Bazı kuşlar tüysüzdür.”
+
+=== KIND: 1 | DATE: 2026-10-14 03:54:59 UTC | ID: d403924a74a16ab7e97b5ff3cd94e34bcfbb433a0eaa9308a5af29f113e31865 ===
+Allah'ın rahmeti öyle bir kuşatsın ki seni günahlarını hatırlamakta zorlanasın. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-14 05:55:33 UTC | ID: 8765adbef4c1c8a5b6570b6b164ef3c8f367b4e7d9642a96f740b91f9db9531c ===
+“Bütün insanlar ölümlüdür.” (A, SaP ya da tümel olumlu) tersine döndürülürse (obversion) SeP’ olur: “Hiçbir insan ölümsüz değildir.” Eş deyişle, “Hiçbir insan ölümlü olmayan değildir.” “Bütün insanlar ölümlüdür.” (SaP) döndürülürse (conversion) PiS olur: “Bazı ölümlüler insandır.” Bu da tersine döndürülürse PoS’ olur: “Bazı ölümlüler insan olmayan değildir.” SaP önermesinin tersine döndürülmesi SeP’ döndürülürse P'eS olur: “Hiçbir ölümlü olmayan insan değildir.” SaP önermesinin tersine döndürülmesi ile elde edilmiş SeP’ önermesinin döndürülmesi ile elde edilen P'eS önermesinin tersine döndürülmesi P'aS’ olur: "Her ölümlü olmayan, insan olmayandır.” 
+
+
+
+=== KIND: 1 | DATE: 2026-10-14 20:10:03 UTC | ID: 8eae4264fcca1aae321c197fcd4cce7c8b70d35a9cabd66f55fb4f00a020f2b1 ===
+“Bütün insanlar ölümlüdür.” (A, SaP ya da tümel olumlu) tersine döndürülürse (obversion) neden SeP’ olur? Çünkü tersine döndürme yaparken önermenin niceliğine (tümel ya da tikel oluşuna) dokunmadan yalnızca niteliğini (olumlu ya da olumsuz oluşunu) değiştiriyoruz ve yüklemin değilini alıyoruz. A, tümel olumlu olduğu için tersine döndürüldüğünde de (obversion) yine tümel ama olumsuz olan E hâlini alır. Özne (S) ve yüklem (P) yerlerini koruyarak önerme SeP biçimini alır, sonra yüklemin değili alınarak SeP’ önermesi elde edilir. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-15 04:43:05 UTC | ID: e12a22d29711ec2db4ef45d79c0d931a2799fae2f4576ac08d3bc9a771007fa8 ===
+Birbirine zıt iki ihtimal aynı anda gerçekleşmiş olamaz. Mantığın bunun gibi ilkeleri gözler önüne sermesine bayılıyorum. İnsan, aklen tüm bunları kavrayabiliyor olsa da hakikati kabul etmek yerine işkembe-i kübradan attıklarıyla argümanını savunmayı tercih edebilen bir canlı. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-15 05:22:26 UTC | ID: 07f3599898c2bdceb0cade8739775a8148b6511be8cb21ca0125171330970508 ===
+“Bütün insanlar ölümlüdür.” (SaP) döndürülürse (conversion) neden PiS olur? Döndürmede ne yapıyorduk? Özne ve yüklemi yer değiştiriyorduk. Bu işlem sırasında doğruluk değerini koruyabilmek adına niceliği değiştireceğiz. Konu tümel olumsuz (SeP ya da E) ya da tikel olumlu (SiP ya da I) olsaydı nicelik değişmeyecekti ama dikkat edin, bizim önermemiz tümel olumlu (SaP ya da A). Bu yüzden, nicelik tümel olumludan tikel olumluya daralacak. O da şöyle olur: “Bazı ölümlüler insandır.” Önermemiz artık PiS oldu, tikel olumlu; özne ve yüklemin yeri değişti ama SaP’a özel olarak nicelik de değişti. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-15 06:10:29 UTC | ID: 61b092a031eaee6e1292d989611da0f81af5e801c3b0922fdd655013b950bfc7 ===
+“Bütün insanlar ölümlüdür.” önermesi döndürülürse (conversion) PiS olur: “Bazı ölümlüler insandır.” Bu döndürülmüş önerme tersine döndürülürse (obversion) ne olur? Niceliği aynı kalacak, niteliği değişecek ve yüklemi değillenecek. O hâlde PoS’ olur: “Bazı ölümlüler insan olmayan değildir.” 
+
+
+
+=== KIND: 1 | DATE: 2026-10-15 06:38:55 UTC | ID: dc1ba196def4d173e9f60ad4adbcfead88ae5688c71b23fa78706a458caf628f ===
+SaP önermesinin tersine döndürülmesi SeP’ döndürülürse neden P'eS olur? SaP önermesi niceliği aynı kalarak, niteliği değiştirilerek ve yüklemi değillenerek tersine döndürülürse SeP’ olur: SaP “Bütün insanlar ölümlüdür.” ise SeP’ “Hiçbir insan ölümlü olmayan değildir.” Şimdi bunu döndürüp P'eS elde edelim. Dikkat ederseniz tersine döndürüp demedim, burada döndürmeden (conversion) bahsediyoruz. Yani özne ve yüklem yer değiştirecek, nicelik (tümel ya da tikel) ve nitelik (olumlu ya da olumsuz) değişmeyecek: “Hiçbir ölümlü olmayan insan değildir.” Bu sayede, önce SaP önermesini tersine döndürdük, sonra elde ettiğimiz önermeyi döndürerek P'eS önermesine gelmiş olduk.
+ 
+
+
+
+=== KIND: 1 | DATE: 2026-10-15 08:52:16 UTC | ID: 2fb6ae66f97ccf778e18eba7dfda0ccb3c929b34e7cc61badfbac4bc3f5da71f ===
+SaP önermesinin tersine döndürülmesi ile elde edilmiş SeP’ önermesinin döndürülmesi ile elde edilen P'eS önermesinin tersine döndürülmesi neden P'aS’ olur? Sıra sıra gidelim. SaP önermesini tersine döndürmek (obversion) için niteliğini değiştirmeli ve yüklemini değillemeliyiz: SeP’. SeP’ önermesini döndürmek için (conversion) özne (S, subject) ve yüklemin (P, predicate) yerini değiştirmeliyiz: P'eS. Şimdi, tersine döndürmek için niteliğini değiştirip yüklemini değillemeliyiz: P'aS’. Şimdi sıralayalım: “Bütün insanlar ölümlüdür.”, “Hiçbir insan ölümlü olmayan değildir.”, “Hiçbir ölümlü olmayan insan değildir.”, “Bütün ölümlü olmayanlar insan olmayandır.”
+ 
+
+
+
+=== KIND: 1 | DATE: 2026-10-15 18:36:57 UTC | ID: 05ad5df2822d4b4ebdb1167deb9cffe4d1801de902c913880b46ad417486c06e ===
+SeP demek tümel olumsuz demek. E ile gösteriyoruz. Mesela “Hiçbir insan kanatlı değildir.” tümel olumsuz bir önerme. SeP'i tersine döndürürsek (obversion) SaP’ olur. SeP'i döndürürsek (conversion) PeS olur. SeP'i önce döndürüp sonra tersine döndürürsek sırasıyla PeS ve PaS’ olur. SeP'i önce tersine döndürüp sonra döndürürsek sırasıyla SaP’ ve P'iS olur. SeP'i önce tersine döndürüp sonra döndürüp sonra tersine döndürürsek sırasıyla SaP’, P'iS ve P'oS’ olur.
+ 
+
+
+
+=== KIND: 1 | DATE: 2026-10-15 18:47:04 UTC | ID: 17390532ae715b14c749a802151fddf752302abbdb1356722f778296fb3b3f8d ===
+SeP'i tersine döndürürsek (obversion) neden SaP’ olur? Önermenin niceliği tümel, niceliğe dokunmuyoruz. Niteliği olumsuz, tersine döndürmek için olumlu yapmalıyız: SaP. Şimdi de yüklemi değillemeliyiz: SaP’. Tersine döndürmede niteliği değiştiriyoruz ve yüklemi (P, predicate) değilliyoruz.
+ 
+
+
+
+=== KIND: 1 | DATE: 2026-10-16 02:04:10 UTC | ID: 4af46e8d3ba2930a30057eef47fc7ff79e05266d12ef4519ba17bb9e1b9258c9 ===
+SeP'i döndürürsek (conversion) neden PeS olur? Conversion işleminde, E ve I önermelerinde, önermenin niteliği ve niceliği değişmiyordu. Yani tümel ise tümel, tikel ise tikel; olumlu ise olumlu, olumsuz ise olumsuz olarak kalıyordu. O hâlde, değişen şey ne? Önermenin öznesi ve yüklemi yer değiştiriyor: S(özne)eP(yüklem) ise P(yüklem)eS(özne). SeP: “Hiçbir insan kanatlı değildir.” ise PeS: “Hiçbir kanatlı, insan değildir.”
+ 
+
+
+
+=== KIND: 1 | DATE: 2026-10-16 03:12:24 UTC | ID: 0185a777eedb6198929952670ff80177d383986837f792ecc35920131d91766b ===
+Mantık kuru ve ruhsuzdur. Kişi ancak tasavvuf ile kalbini doldurabilir. Biri doğru düşünmeye, diğeri Hakk'ı düşünmeye yol açar. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-16 04:09:50 UTC | ID: 6b2861ac201478923f15d19f3c8310406cea62b1aae67cc22f00a249a01a90e2 ===
+SeP'i önce döndürüp sonra tersine döndürürsek sırasıyla PeS ve PaS’ olur. Neden? Önce döndürelim. Döndürmek (conversion) için özne ve yüklem yer değiştirmeli: PeS. Şimdi, PeS önermesini tersine döndürelim (obversion). Tersine döndürme için önermenin niteliğini değiştirip yüklemini değillememiz gerekiyor. Niteliğini değiştirirsek PaS olur. Yüklemini değillersek PaS’ önermesine ulaşırız. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-16 04:17:08 UTC | ID: bf7d458b01da51019855c835cda2efc31c560c6551fb1cae2786333f3a009d90 ===
+Elbette Allah'ın yok sayıldığı bir pozisyonda kalıcılıktan söz edilemez. Çünkü evrenin bir sonu var. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-16 05:23:17 UTC | ID: 2ae837cadd0cb8afdd20f0f501e256ea3cc0e5240fb6d4ae2a1f9c9ee19c1565 ===
+SeP'i önce tersine döndürüp sonra döndürürsek sırasıyla SaP’ ve P'iS olur. Neden? Sıra sıra gidelim. Tersine döndürme (obversion) işlemi için niteliği değiştirip yüklemi değilliyoruz. SaP’ önermesine ulaştık. Şimdi, özne ve yüklemin yerini değiştirerek döndürme (conversion) işlemi yapalım. Bu sayede P'iS önermesine ulaştık. Unutmayın, SaP döndürülürken niceliği de değişir. Aksi takdirde doğruluk değerini koruyamayız ve mantık hatası olur.
+ 
+
+
+
+=== KIND: 1 | DATE: 2026-10-16 07:00:09 UTC | ID: 83915ba94339f1a21aea8531cb2d77a7e47903d299ee8c77cff7980e2fcbe026 ===
+SeP'i önce tersine döndürüp (obversion) sonra döndürüp (conversion) sonra tersine döndürürsek sırasıyla SaP’, P'iS ve P'oS’ olur. Neden? Tersine döndürme için niteliği değiştirip yüklemi değilleyelim. Ulaştığımız SaP’ önermesinin özne ve yüklemini yer değiştirelim ve mantık hatası yapmamak için niceliğini değiştirelim. Ulaştığımız P'iS önermesinin de niteliğini değiştirip yüklemini değillersek P'oS’ önermesine ulaşmış oluruz.
+ 
+
+
+
+=== KIND: 1 | DATE: 2026-10-16 07:46:29 UTC | ID: 924ab1d18bc4f25003691597cd46809f91b6384b6f54305e2029c30f33a1fd65 ===
+SiP önermesini tersine döndürürsek (obversion) SoP’ olur. Döndürürsek (conversion) PiS olur. Döndürüp tersine döndürürsek PoS’ olur. Tersine döndürüp döndüremeyiz ya da tersine döndürüp, döndürüp, tersine döndüremeyiz.
+ 
+
+
+
+=== KIND: 1 | DATE: 2026-10-16 08:16:38 UTC | ID: 4b84df2ca94348c064e95fbfe828ba17a91727667715b6a9f05e188eae4d9f85 ===
+SiP önermesini tersine döndürürsek (obversion) SoP’ olur. Çünkü tersine döndürmede niteliği değiştirip yüklemi değilliyoruz.
+ 
+
+
+
+=== KIND: 1 | DATE: 2026-10-16 14:23:54 UTC | ID: 9c6d117c6bf831f618d7ccd9aa00bcb50156c7b55dfbb3cf6d327e0cd5d07993 ===
+SiP önermesini döndürürsek (conversion) PiS olur. Çünkü SiP tikel olumlu. Tikel olumlu ve tümel olumsuz önermelerde döndürme işlemi özne ve yüklemin yer değiştirilmesiyle gerçekleştirilir.
+ 
+
+
+
+=== KIND: 1 | DATE: 2026-10-16 16:47:11 UTC | ID: d64ba63fc7d7f2820fd4f057607ad9863c73de8428fdedd47d38063d3a1b9cc4 ===
+SiP önermesini döndürüp tersine döndürürsek neden PoS’ olur? Döndürmek (conversion) için özne ve yüklemi yer değiştirelim: PiS. Tersine döndürmek için niteliği değiştirip yüklemi değilleyelim: PoS’. Örneğin, “Bazı insanlar gözlüklüdür.” ise “Bazı gözlüklüler insandır.” ise “Bazı gözlüklüler insan olmayan değildir.”
+ 
+
+
+
+=== KIND: 1 | DATE: 2026-10-16 18:14:10 UTC | ID: bcdf463a58aede4430fe26a5f33fec922f1947b455df9ea42547b6d66dc69e51 ===
+Yapay zekâ bir nimet. Burada sorunun insanlar tarafından çıkarıldığını görmek lazım.
+
+Dâbbetü'l-arz benzetmeleri zorlama gibi görünüyor; hoş, yarım ilmim nazarında. İnsan sorun çıkarabilen bir canlı olsa da korkmamız gereken şey, kontrolün insanın elinden alınması.
+
+Unutmamak gerekir ki insan, sorun çıkardığı gibi nice güzelliğin de vesilesi. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-16 18:34:55 UTC | ID: 20e7bef5f056dd06cdf4f2e77649d934b08076691f0aaaff443502045a62c57d ===
+Karındeşen Jack, 1888 yılında faaliyet göstermiş bir seri katil. Kurbanlarına cerrahi işlemler uyguladığı için (bir de mektup hadisesi var tabii) bu ismi almış.
+
+Benim de karnımı kestiler ama kesen kişiye duacıyım. Vaktiyle, göbek fıtığı ve kapalı safra kesesi ameliyatı (aynı anda) oldum.
+
+“Kesme” yönünden ortak olan iki şeyi birbirinden ayıranın ne olduğunu hiç düşündünüz mü?
+
+Hz. Ömer (r.a.) vasıtasıyla Hz. Muhammed'in (s.a.v.) "Ameller ancak niyetlere göredir ve herkese ancak niyet ettiği şey vardır. Kimin hicreti (göçü) Allah'a ve Resûlü'ne ise, onun hicreti Allah ve Resûlü'nedir. Kimin hicreti de elde edeceği bir dünyalık veya nikâhlanacağı bir kadın için ise, onun hicreti de hicret ettiği şeyedir." sözü (Buhârî, Bed'ü'l-Vahy 1; Müslim, İmâret 155) bize ulaştı.
+
+İşte, niyetin önemi ve gerçek bir örnek. 
+
+
+
+=== KIND: 1 | DATE: 2026-10-16 18:50:37 UTC | ID: 549ff3d6f5947dd5577936ec042bf1a726d6da87d9dac344c8cfd0cc30253a7e ===
+SiP'i bitirmek üzereyim, Allah'ın izniyle. Bu sayede “Eşdeğerlik Dönüşümleri” başlığı altında dört tip önermeyi de ele almış olacağım, şükürler olsun.
+
+İlk iki yazıyı buraya bırakayım.
+
+Eşdeğerlik Dönüşümleri - SaP: https://habilozdemir.substack.com/p/esdegerlik-donusumleri-sap
+
+Eşdeğerlik Dönüşümleri - SeP: https://habilozdemir.substack.com/p/esdegerlik-donusumleri-sep 
+
+Medium'dan okumak isterseniz: https://medium.com/@habilozdemir/list/25a038446663  
+
+
+
+=== KIND: 1 | DATE: 2026-10-17 04:51:27 UTC | ID: 3e1260f341603b01d01bf209ce3958f3b20f62ee6a32d4b3f88f3a442acaea78 ===
+SiP önermesini tersine döndürebiliriz (obversion) ama sonra döndüremeyiz (conversion). SiP önermesini tersine döndürürsek tikel olumsuz olur ve O döndürülmez. SiP: "Bazı insanlar gözlüklüdür.” Tersine döndürülmüş hâli (SoP'): "Bazı insanlar gözlüklü olmayan değildir.” Bu önermeye conversion işlemi yapılamaz ama zorlayalım: "Bazı gözlüklü olmayanlar insan değildir.” İşte, bal gibi bir mantık hatası.
+ 
+
+
+
+=== KIND: 1 | DATE: 2026-10-17 05:12:10 UTC | ID: 4cc035897f722559202686aecb21a5f530711748520d50aef65823f8392c2603 ===
+SiP önermesini tersine döndürüp, döndürüp, tersine döndüremeyiz. Neden? Mesela, SiP önermesi “Bazı insanlar yazardır.” olsun. Tersine döndürelim: “Bazı insanlar yazar olmayan değildir.” Şimdi, bu noktadan sonra döndürme yapamayız çünkü elimizde bir O var ve O için conversion işlemi ihlale neden olur. Gene de zorlayalım ve bilinçli bir şekilde mantık hatası yapalım: “Bazı yazar olmayanlar insan değildir.” Mantık hatası yaptığımız hâlde devam edelim ve elde ettiğimiz P’oS önermesini tersine döndürmeye çalışalım: “Bazı yazar olmayanlar insan olmayandır.” Unutmayın, P’oS tersine döndürülebilir. Buradaki problem ikinci işlemde. Yani SiP’i tersine döndürdükten sonra döndüremeyiz. 
+
+
+
+=== KIND: 1 | DATE: 2026-11-24 03:59:33 UTC | ID: 42f9b1299fe994be34f282e6a898e44a8b6208d4e8496a2033ff7a587501c040 ===
+Bir sanatçı neden Nostr kullanır? 
+
+
+
+=== KIND: 1 | DATE: 2026-11-24 14:13:36 UTC | ID: a39f077217d533430df42cdc7a4c79ebe117e341fd45563d621db86eed2f2bcb ===
+The Holy Qur'an Digital Archive (v1.0) — Cryptographic Preservation Seal
+
+I have archived the verified Arabic text (Uthmani & Simple - Tanzil v1.1), XML dataset, core translations (Yusuf Ali, Elmalılı Hamdi Yazır, Diyanet), and official 616-page vector Mushaf PDF in a permanent, verifiable digital capsule.
+
+Repository: https://github.com/habilozdemir/quran-digital-archive
+Master SHA-256 (MANIFEST.sha256): 848d5d98e71088c17727061c6e166167ec80e8e5e11ed2234b82acda49e912d0
+
+Verify integrity: shasum -a 256 -c MANIFEST.sha256
+
+#Quran #DigitalPreservation #Nostr #Archive
+
+
+=== KIND: 1 | DATE: 2026-11-24 14:36:45 UTC | ID: 60f4d1bf74fd304142768dd39a172657c432dec7273a3d2714961fe01fc6d357 ===
+Bir sanatçı neden Nostr kullanır? 
+
+nostr:nevent1qqsgvfqqk9hx2nnmjvphsc6v6hyu4mnskvp4v6fryryrsup02yyrjdczyp3gkty6ah8emfrlggfggqhnlkp8sldvwhp4jhd3hn8nk7a2kpzj7qcyqqqqqqgs5rujn
+
